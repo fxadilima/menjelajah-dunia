@@ -17,6 +17,8 @@ Gerakan mereka menyamarkan diri sebagai Masyarakat Teratai Putih[^white-lotus], 
 
 [^white-lotus]: Masyarakat Teratai Putih, atau Bai Lian She (白蓮社) adalah komunitas berbasis agama Buddha. Kelompok ini berpusat di Donglin Si (东林寺), atau Kuil Donglin, sekitar 20 km dari kota Jiujiang, propinsi Jiangxi. Ajaran mereka adalah cabang dari aliran Buddha Mahayana yang mereka sebut 'Tanah Murni'. Sasaran utamanya adalah meraih reinkarnasi di 'Tanah Murni' tersebut. Ajaran ini dipopulerkan oleh Biksu Huiyan dari Lu Shan, yang mendirikan Kuil Donglin pada tahun 386. Popularitas kuil mencapai puncaknya di era Dinasti Tang. 
 
+[^luotian]: Luo Tian (羅田) di dunia modern adalah sebuah tempat di wilayah Hubei.
+
 Hanya dalam beberapa bulan, mereka berhasil menaklukkan wilayah Qizhou (蘄州), dan menjadikannya markas besar mereka, pusat
 komando militer Pemberontak Hong Jin. Akhirnya Xu Shouhui mendeklarasikan Kekaisaran yang bernama Tianwan (天完). Awalnya ia
 menggunakan nama Song (宋) untuk negara yang didirikannya. Xu Shouhui menjadi kaisara pertama dengan nama era Zhiping (治平).
