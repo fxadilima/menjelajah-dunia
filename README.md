@@ -33,3 +33,9 @@ Jin Yong merevisi cerita ini berkali-kali, terutama sekali di bagian akhir. Di s
 revisi sekitar tahun 2005.
 
 
+### Catatan
+
+Karena target utama kita adalah menggunakan Astro, maka semua referensi dengan target dokumen markdown harus
+ditulis tanpa ekstensi \*.md, ini agak berlainan dengan GitHub, karena itu link yang dihasilkan tidak akan jalan
+kalau kita membacanya di GitHub.
+
