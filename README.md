@@ -14,7 +14,7 @@ memang pernah bergabung dengan sebuah pemberontakan melawan Dinasti Yuan yang di
 'Ikat Kepala Merah', karena para anggotanya biasa mengenakan ikat kepala merah. Tetapi Chen Youliang tentu saja bukan 
 murid dari Yuanzhen Dashi dari Shaolin, dan juga tidak pernah menjadi anggota Kai Pang.
 
-Saya berusaha menyusun ulang rangkaian peristiwa yang terkait dengan tokoh-tokoh sejarah, supaya lebuh sesuai dengan
+Saya berusaha menyusun ulang rangkaian peristiwa yang terkait dengan tokoh-tokoh sejarah, supaya lebih sesuai dengan
 fakta, terutama sekali tahun-tahun terjadinya peristiwa yang berkaitan. Upaya ini bukan semuanya bisa kita lakukan.
 Selain kurangnya bahan yang terdapat di internet, juga karena jalinan cerita itu sendiri yang tidak memungkinkan kita
 membuat perubahan yang perlu.
