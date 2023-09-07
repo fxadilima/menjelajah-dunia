@@ -5,15 +5,22 @@ author: FX. Adi Lima
 description: Menuju kemenangan besar, sebuah titik awal dan titik akhir.
 ---
 
-# Quzhou, 1351
+<div class="w3-panel w3-card-4">
+    <div class="w3-bar w3-white">
+        <a href="./intro" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">&#8592; Previous</a>
+        <a href="../bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-right">Next &#8594;</a>
+    </div>
+</div>
+
+# Qizhou, 1351 — Era Dinasti Yuan
 
 Di bulan Agustus 1351, seorang pengrajin kain yang berasal dari Luotian[^luotian], Xu Shouhui (徐寿辉), bersama rekan-rekannya
-mendirikan sebuah gerakan yang akhirnya dikenal dengan nama Pemberontakan Hong Jin. Ia juga dikenal
+mendirikan sebuah gerakan yang akhirnya dikenal dengan nama Pemberontakan Hong Jin[^red-turban]. Ia juga dikenal
 dengan nama Xu Zhenyi (徐真一 atau 徐真逸).
 
 Gerakan mereka menyamarkan diri sebagai Masyarakat Teratai Putih[^white-lotus], yang berorientasi agama Buddha. 
 
-[^red-turban]: Pemberontakan Hong Tou Jin (红头巾) atau Hong Jin, adalah sebutan umum dalam sejarah untuk kelompok pemberontak di kalangan suku Han, yang melibatkan Chen Youliang dan Zhu Yuanzhang. Dalam cerita kita ini tentu saja Ming Jiao.
+[^red-turban]: Pemberontakan Hong Tou Jin (红头巾) atau Hong Jin, adalah sebutan umum dalam sejarah untuk kelompok pemberontak di kalangan suku Han, yang melibatkan Chen Youliang dan Zhu Yuanzhang. Nama tersebut artinya adalah 'Ikat kepala merah', sesuai dengan ciri-ciri fisik yang mereka gunakan.
 
 [^white-lotus]: Masyarakat Teratai Putih, atau Bai Lian She (白蓮社) adalah komunitas berbasis agama Buddha. Kelompok ini berpusat di Donglin Si (东林寺), atau Kuil Donglin, sekitar 20 km dari kota Jiujiang, propinsi Jiangxi. Ajaran mereka adalah cabang dari aliran Buddha Mahayana yang mereka sebut 'Tanah Murni'. Sasaran utamanya adalah meraih reinkarnasi di 'Tanah Murni' tersebut. Ajaran ini dipopulerkan oleh Biksu Huiyan dari Lu Shan, yang mendirikan Kuil Donglin pada tahun 386. Popularitas kuil mencapai puncaknya di era Dinasti Tang. 
 
@@ -21,21 +28,178 @@ Gerakan mereka menyamarkan diri sebagai Masyarakat Teratai Putih[^white-lotus], 
 
 Hanya dalam beberapa bulan, mereka berhasil menaklukkan wilayah Qizhou (蘄州), dan menjadikannya markas besar mereka, pusat
 komando militer Pemberontak Hong Jin. Akhirnya Xu Shouhui mendeklarasikan Kekaisaran yang bernama Tianwan (天完). Awalnya ia
-menggunakan nama Song (宋) untuk negara yang didirikannya. Xu Shouhui menjadi kaisara pertama dengan nama era Zhiping (治平).
+menggunakan nama Song (宋) untuk negara yang didirikannya. Xu Shouhui menjadi kaisar pertama dengan nama era Zhiping (治平).
+
+Di tahun yang sama para penduduk Shenqiu, propinsi Henan, diteror oleh kelompok bandit lokal yang juga mengancam beberapa
+wilayah tetangga. Seorang penduduk setempat yang bernama Chaghan Temur, berhasil meredam teror tersebut dengan menggalang 
+para petugas keamanan dan militer lokal di Shenqiu. Ia adalah seorang sipil yang lulus dari ujian negara tingkat propinsi 
+dengan nilai gemilang, dan mendapat anugerah gelar Juren.
+
+Berita tentang seorang Juren yang berhasil meningkatkan sistem keamanan lokal ini tersebar hingga ke Sidang Majelis 
+Kekaisaran di Dadou[^dadou]. Tahun berikutnya Chaghan diangkat menjadi seorang Darughachi[^darughachi] — Petugas Daerah 
+Urusan Pajak, di wilayahnya. Saat itu berhasil merekrut lebih dari sepuluh ribu ribu orang prajurit di bawah komandonya.
+
+[^dadou]: Dadou adalah ibukota utama Dinasti Yuan, di jaman modern kota ini adalah Beijing.
+
+[^ruyang]: Ruyang Wang (汝陽王 atau 汝阳王) adalah gelar kebangsawanan yang diberikan kepada ayah Zhao Min. Karakter Wang (王) sebenarnya memang berarti 'raja', tetapi berbeda dengan 'Kaisar'. Raja di sini kurang lebih adalah setingkat Gubernur atau Kepala Daerah. Ruyang adalah nama sebuah wilayah di propinsi Henan, wilayah ini berada di bawah kekuasaan Luoyang.
+
+Teror para bandit di Shenqiu itu sebenarnya adalah sebuah gejala awal merosotnya Dinasti Yuan. Orang banyak menyalahkan 
+sebuah proyek untuk membangun bendungan dan mengeruk sungai untuk mengatasi banjir besar yang terjadi pada tahun 1344 
+akibat meluapnya Sungai Kuning, yang menyebabkan krisis berkepanjangan di Khanbaliq[^khanbaliq].
+
+Pada tahun 1355, Chaghan berarak ke Utara. Setelah melalui serangkaian peperangan ia berhasil meredam kekacauan di Hebei.
+Majelis Kekaisaran menganugerahkan posisi sipil kepadanya. Pada tahun 1356 ia menjabat Bingbu Shangsu, atau Menteri 
+Urusan Perang. Di antara suku Han ia lebih dikenal sebagai Pangeran Ruyang[^ruyang] atau Raja Ruyang, karena saat itu
+keluarganya menempati rumah dinas di wilayah Ruyang, Henan. 
+
+[^khanbaliq]: Khanbaliq adalah nama ibukota Dadou, atau Beijing di dunia modern, dalam bahasa Mongolia. Artinya adalah 'Kota Para Khan'.
 
 Tercatat dalam sejarah, Chen Youliang bergabung dengan Jendral Ni Wenjun, yang bernaung di bawah komando Xu Shouhui.
 
-# Shaolin, 1362
+Chaghan hampir selalu berada di medan tempur dan jarang hadir di istana, tetapi kiprahnya menarik perhatian Kaisar Toghon 
+Temur dan Qi Huanghou[^empress-ki]. Setiap kali Chaghan pulang dari garis depan, ia selalu diundang secara khusus ke 
+istana untuk acara kecil, tetapi Toghon hampir selalu mengobrol tentang berbagai topik yang tidak penting. Acara-acara 
+seperti ini sebenarnya adalah cara kaisar mencari sekutu yang dianggapnya bisa dipercaya, untuk menyamarkannya ia 
+selalu mengundang beberapa menteri lain beserta keluarga mereka. Hanya dengan sebuah isyarat khusus Sang Kaisar 
+bersama Chaghan akan memasuki sebuah ruangan jika ada suatu hal penting untuk dibicarakan. Dengan demikian Zhao Min 
+dan Wang Baobao sama sekali tidak asing dengan lingkungan dalam istana.
 
-Menjelang runtuhnya Dinasti Song Selatan, ketika Guo Jing dan Huang Rong mengadakan Pertemuan Besar Para Pendekar
-yang didukung oleh Lu Guanyin dan istrinya, topik yang mencuat adalah pemilihan seorang tokoh yang berfungsi untuk 
-menggalang persatuan seluruh pendekar Wulin untuk melawan serbuan Mongolia.
+[^empress-ki]: Nama ini bahasa mandarin seharusnya diromanisasi menjadi Qi Huanghou (奇皇后), tapi banyak artikel menggunakan Gi Huanghou untuk nama yang sama. Dalam Hangul adalah 기황후, Hanja 奇皇后. Nama aslinya adalah Ki Seung Nyang. Ia dilahirkan di Kerajaan Goryeo dan adalah keturunan bangsawan setempat, yang sempat menjadi tawanan perang Dinasti Yuan. Ia kemudian bekerja sebagai pelayan yang bertugas menyajikan teh di istana Dinasti Yuan, dan bertemu dengan Toghon Temur. 
 
-Lebih dari seratus tahun kemudian, di biara Shaolin pertemuan akbar semacam ini kembali diadakan, tetapi dengan
+Putra Mahkota pilihan Kaisar Toghon Temur adalah Pangeran Ayushiridara, yang dilahirkan oleh Selir Qi sebelum ia 
+diangkat menjadi permaisuri. Koke Temur, atau Wang Baobao, lebih tua beberapa tahun dibandingkan Sang Pangeran, dan 
+dengan luwes ia mendekati pangeran itu untuk mengajaknya bermain-main. Saat itu Ayushiridara berusia 15 tahun, dan
+ia sangat suka berlatih seni bela diri. Wang Baobao menemaninya berlatih. Tentu saja dengan luwes ia akan sengaja 
+mengalah demi mengambil hati pangeran. 
+
+Suatu hari Zhao Min remaja yang baru menginjak usia 13 tahun, dan sudah mendapat gemblengan dasar-dasar kungfu dari 
+Fan Yao sejak usia 9 tahun, menonton kakaknya berlatih dengan pangeran muda itu. Ketika melihat kakaknya jatuh 
+terjungkal, ia dengan gesit bersalto beberapa kali mendekati mereka, lalu melompat secepat kilat dengan tinjunya 
+terarah langsung ke hidung Ayushiridara yang jauh lebih tinggi ketimbang dirinya. Pangeran itu terkesiap dan tidak 
+mampu mengelak. Pukulan itu mengenai hidung Sang Pangeran dengan telak sampai berdarah, dan ia jatuh terjengkang, 
+pandangannya seketika gelap, tapi ia tidak pingsan. 
+
+Beberapa orang pengawal menjerit kaget dan bergegas membantu majikan kecil mereka bangkit berdiri. Begitu 
+Ayushiridara bangkit, ia melihat ternyata yang memukulnya adalah seorang anak perempuan bertubuh kecil 
+dengan wajah putih mulus yang secantik bunga, tetapi memakai setelan putih ala anak laki-laki. Anak perempuan
+itu tersenyum penuh kemenangan, tampaknya sangat bangga akan kemampuannya sendiri, berdiri tegap dengan dagu
+terangkat dan kedua tangannya berkacak pinggang tanpa sedikit pun merasa bersalah telah meninju seorang
+putra kaisar.
+
+Wang Baobao begitu kagetnya, seketika itu ia membentak, "Minmin! Apa yang kau lakukan?"
+
+Zhao Min menatapnya dengan heran, sedikitpun ia tidak merasa bersalah. "Gege, dia memukulmu!" katanya. Ia menudingkan
+telunjuknya ke arah Ayushiridara yang masih belum pulih dari kagetnya. Saat itu Toghon Temur dan Permaisuri Qi sedang 
+mengobrol dengan Chaghan dan ibu Zhao Min mengenai hal-hal yang berbau kekeluargaan. Mereka melihat kejadian itu dan 
+bergegas mendatangi lapangan terbuka yang saat itu sudah dipenuhi kerumunan beberapa pejabat. Kaisar melihat hidung 
+putranya berdarah, dan ternyata anaknya memakai pakaian yang biasa dikenakan untuk latihan bela diri. Ia tertawa 
+terbahak-bahak, lalu mengulurkan tangannya untuk menggandeng Zhao Min kecil dan putranya sendiri.
+
+"Ini bukan masalah sama sekali," katanya dengan ringan. "Kena pukul waktu latihan justru membuatmu menjadi laki-laki
+sejati!" Ia berpaling kepada Zhao Min dan bertanya, "Siapa namamu?"
+
+Dengan kegagahan seorang Kubilai ketika memberi perintah untuk menyerbu Dinasti Song, Zhao Min berkata dengan suara
+lantang, "Minmin Temur memberi salam kepada Huang Shang!" Ia meletakkan tangan di dada sambil berlutut hormat. Gayanya
+sangat bertentangan dengan perawakannya yang kecil dan wajahnya yang cantik dan halus.
+
+Semua orang meledak dalam tawa. Ketegangan sesaat itu berubah menjadi meriah. Sore itu juga Sang Kaisar menyuruh
+orang menyiapkan alat tulis, lalu menuliskan sebuah surat pengangkatan resmi yang menganugerahkan gelar Shaomin Junzhu[^gelar-1]
+kepada Zhao Min. Sang Permaisuri memberinya seperangkat busur dan anak panah, lalu memberikan tanda pengenal yang
+bisa dipakai Zhao Min untuk menemuinya kapan saja ia suka. Permaisuri Qi sangat menyukai Zhao Min, tetapi Ayushiridara
+sama sekali tidak. Ia tidak pernah melupakan pukulan telak yang membuat hidungnya berdarah.
+
+[^gelar-1]: Nama Zhao Min dalam bahasa Han adalah 趙敏. Karakter Shao (少) memiliki beberapa makna, salah satunya adalah 'kecil' atau 'muda'. Gelar Shaomin Junzhu (少敏君主) ini sebetulnya adalah gabungan sebuah nama panggilan 'Minmin Kecil' dan gelar kebangsawanan Junzhu (君主), yang memiliki otoritas atas sebuah wilayah. Dengan demikian Zhao Min sejak kecil telah menjadi seorang penguasa sebuah wilayah, meskipun berada di bawah komando ayahnya. Otoritas demikian tidak dimiliki oleh Koke Temur yang adalah kakak laki-lakinya. Gelar ini juga bisa kita tulis 'Jinzhu', yang tampak lebih sesuai dengan pengucapannya. Karena karakter Shao hampir sama pengucapannya dengan marga Zhao (趙) milik suku Han, ia kemudian memakai karakter ini sebagai pengganti marga untuk namanya dalam bahasa Han. Ini sebabnya kenapa ia selalu memperkenalkan diri sebagai Zhao Min.
+
+Zhao Min berlutut di hadapan Kaisar dan Permaisuri Qi untuk menerima anugerah itu, lalu menyatakan terima kasihnya 
+dengan gaya yang elegan. Sejak saat itu semua rakyat di sekitar kediaman Chaghan mengenalnya sebagai Shaomin Jinzhu. 
+Mereka sangat menyukai gayanya yang khas dan tutur katanya yang sedikit pun tidak berbeda dengan semua orang Han. 
+Para anggota Ming Jiao selalu menyebut nama Chaghan Temur dengan penuh kebencian, tetapi rakyat di sekitar tempat 
+kediaman Chaghan dan bahkan di sejumlah tempat lain yang tercakup dalam kekuasaannya, tidak akan pernah menyetujui
+pendapat Ming Jiao. 
+
+Di bawah bimbingan Fan Yao, Zhao Min rajin berlatih kungfu, yang membuat perawakannya yang kecil menjadi atletis.
+Ia tumbuh menjadi gadis remaja cantik yang gesit dan lincah. Dengan otaknya yang cerdas ia punya kebiasaan 
+berdebat dengan para perwira di bawah komando ayahnya mengenai berbagai hal. Ia merekrut sendiri beberapa
+ajudan dengan keterampilan memanah nomor satu dari antara para prajurit ayahnya. Delapan orang itu dijulukinya
+Delapan Pendekar Panah Dewa[^pemanah-8]. 
+
+[^pemanah-8]: Shen Jian Ba Xiong (神箭八雄), secara literal adalah 'Panah Dewa Delapan Pahlawan'.
+
+Secara bertahap, Zhao Min yang semakin dewasa memahami betul bahwa di kubu kekaisaran terdapat para pejabat
+dan perwira yang suka bersikap seenaknya dan menggunakan kekerasan di luar batas. Sebenarnya ia tahu bahwa hal-hal
+semacam ini juga ada dalam setiap dinasti lain yang berkuasa sebelumnya. Tetapi setelah ia berkembang semakin
+dewasa, ia sadar bahwa Dinasti Yuan berasal dari Mongolia, wilayah yang jauh dari Zhongyuan sebelum Kubilai Khan
+menaklukkan Song. Saat ini jarak tersebut terasa jauh lebih dekat karena seolah-olah tembok pemisah itu sudah
+setengah dibongkar dengan berdirinya Dinasti Yuan.
+
+Kendatipun begitu, tindakan yang brutal dari perwira dan pejabat setempat akan dengan mudah didorong menjadi 
+sumber kebencian kepada semua keturunan Mongol oleh para pemberontak. Zhao Min tahu betul hal ini sangat 
+merugikan semua pihak dalam jangka panjang. Ia adalah seorang anak yang cerdas, ayahnya memberikan pendidikan
+ala suku Han sejak kecil. Bahkan hampir semua pakaian yang mereka kenakan sehari-hari, dan juga makanan, minuman,
+perlengkapan rumah tangga, bangunan rumah, adalah bagian dari tradisi dan kebudayaan bangsa Han. Tentu saja 
+secara alamiah mereka juga makan makanan khas Mongolia, minum minuman khas Mongolia, termasuk semua makanan
+kecil, pakaian adat dan kesenian lain.
+
+Para anggota keluarga Chaghan menguasai bahasa Han baik lisan maupun tertulis dengan sempurna. Kaligrafi Zhao Min
+sangat indah. Tulisan seorang sastrawan kelas atas pun belum tentu lebih baik ketimbang tulisan tangan Zhao Min.
+Ia sangat mengagumi karya-karya seni dalam bentuk puisi maupun lukisan.
+
+Dari waktu ke waktu, ketika Zhao Min melihat ketidakadilan atau penindasan terjadi di suatu wilayah yang berada
+di luar komando ayahnya, ia akan mengajak para ajudannya untuk menyelidiki latar belakang peristiwa itu. Lalu
+kedelapan pemanah ulung itu akan menginterupsi tindakan para perwira yang menurut penilaian Zhao Min tidak dapat
+diampuni. Mereka memasang perangkap untuk menggiring orang-orang ini ke suatu tempat yang jauh dari jangkauan
+komandan mereka, dan hanya dengan sebuah jentikan jari Zhao Min memberi isyarat untuk melepaskan tembakan
+beruntun. Anak-anak panah akan menghujani sasaran tanpa seorang pun mampu meloloskan diri. Ketika kasus itu 
+diselidiki, yang ditemukan adalah fakta bahwa semua anak panah yang digunakan adalah milik pasukan yang 
+menjadi korban itu sendiri. Tindakan ini bahkan tidak diketahui oleh Chaghan Temur.
+
+Chaghan sangat tidak menyukai gaya bahasa para pejabat istana, inilah alasan utama ia hanya muncul di istana ketika
+sungguh-sungguh ada urusan penting. Tugas untuk maju ke medan laga akan diterimanya dengan segala senang hati, 
+karena tugas itu akan menjauhkannya dari istana.
+
+Sebelum ia menjadi pejabat, Chaghan sering mengomel di tengah acara makan keluarganya sambil memaki beberapa pejabat yang 
+dinilainya sebagai penjilat besar, dan Zhao Min kecil yang baru berusia empat tahun bertanya, "Pa, bagaimana 
+orang bisa menembak kentut kuda[^menjilat]?"
+
+Semua orang akan tertawa terbahak-bahak mendengar keluguan pertanyaan itu, lalu ibunya akan menatapnya dengan pandangan
+tegas untuk menegur, dan menyuruhnya jangan bicara sembarangan. Tapi Chaghan mengangkatnya, dan meletakkannya di
+pangkuannya sambil berkata, "Coba kau pikir, itu bisa dilakukan atau tidak?"
+
+Zhao Min seperti biasa akan meletakkan telunjuk di pelipisnya sambil berpikir, lalu menjawab, "Aku tidak bisa. Papa
+bisa?"
+
+"Nah, Papa juga tidak bisa," sahut Chaghan. "Berarti itu apa?"
+
+"Orang itu bohong!" jawab Zhao Min dengan yakin.
+
+"Kira-kira begitu," kata Chaghan.
+
+[^menjilat]: Istilah 'Kentut Kuda' yang dipakai Chaghan adalah Pai Ma Pi (拍马屁), yang sebenarnya ungkapan untuk sikap 'menjilat'. Secara literal ketiga karakter tersebut berarti 'Menembak atau menepuk kentut kuda'. Zhao Min kecil mengartikan istilah tersebut secara literal.
+
+[^fu]: Fu (府) salah satu Divisi Administratif dalam struktur pemerintahan Tiongkok kuno. 
+
+[^darughachi]: Darughachi adalah sebutan bagi seorang pejabat di dalam struktur kepemimpinan Mongol yang bertanggung jawab atas pajak. Di bawah Dinasti Yuan yang didirikan Kubilai Khan, nama ini diganti menjadi Zhangguan. Jabatan ini sendiri biasanya dipegang oleh seorang Mongol di bawah Dinasti Yuan.
+
+[^juren]: Juren adalah gelar yang diberikan kepada para pelajar yang lulus ujian negara di tingkat propinsi di dalam sistem Kekaisaran Tiongkok kuno. Ujian tingkat propinsi ini dikenal dengan nama Xiangshi. Gelar Juren ini lebih tinggi daripada Shengyuan, tetapi lebih rendah ketimbang Jinshi.
+
+***
+
+# Shaolin, 1362 — Pertemuan Besar Untuk Membunuh Singa
+
+Menjelang runtuhnya Dinasti Song Selatan, ketika Guo Jing dan Huang Rong mengadakan 
+[Pertemuan Besar Para Pendekar](../sdxl/pertemuan-besar "Bandingkan dengan acara yang digelar Guo Jing.") 
+yang didukung oleh Lu Guanyin[^lu-guanying] dan istrinya, topik yang mencuat adalah pemilihan seorang tokoh yang 
+berfungsi untuk menggalang persatuan seluruh pendekar Wulin untuk melawan serbuan Mongolia.
+
+[^lu-guanying]: Lu Guanying adalah putra dari murid Huang Yaoshi, Lu Chengfeng. Mereka adalah majikan Rumah Awan yang terletak di Danau Tai.
+
+Lebih dari seratus tahun kemudian, di biara Shaolin, pertemuan akbar semacam ini kembali diadakan, tetapi dengan
 tema 'Membunuh Singa'. Awalnya ketika mereka menerima undangan tersebut, semua pihak bertanya-tanya, 'singa'
 macam apakah yang dimaksud di sini? Orang biasanya memakai simbol 'Naga' untuk mewakili para penguasa, dan sejauh
 itu tidak ada yang menggunakan simbol 'singa' atau 'harimau'. Tetapi bagi semua orang yang memiliki dendam pribadi
-dengan Xie Xun, simbol tersebut sangat jelas.
+dengan Xie Xun[^xie-xun], simbol tersebut sangat jelas.
+
+[^xie-xun]: Xie Xun (謝遜) adalah salah seorang 'Raja' di Ming Jiao yang berjuluk 'Raja Singa Berambut Emas', atau Jin Mao Shi Wang (tradisional: 金毛獅王, disederhanakan: 金毛狮王). Ia adalah ayah angkat Zhang Wuji dan sekaligus kakak angkat kedua orang tuanya, Zhang Cuishan dan Yin Soso.
 
 Menjelang acara itu terselenggara, sudah jatuh beberapa korban. Di antaranya adalah dari pihak Kunlun Pai, suami-istri
 pemilik rumah tempat Zhang Wuji dan Zhao Min sempat menginap, dan beberapa pihak lain.
@@ -62,21 +226,6 @@ bukan ahli perang, bahkan sama sekali tidak memahami strategi militer. Tetapi Je
 tulisan tangannya sendiri, seperti yang tertulis dalam salinan ini. Selama ini semuanya tersimpan di dalam Tulong Dao,
 yang baru bisa kita ketahui setelah kita juga mendapatkan Yitian Jian. Itu pun kalau kita tahu rahasia di balik
 kedua senjata pusaka itu."
-
-Pada saat yang sama, Dinasti Yuan semakin merosot akibat konflik internal. Kaisar Toghon Temur telah lama kehilangan
-minat untuk memimpin negara. Ini semua sebenarnya bukan tidak beralasan. Toghon sejak masa mudanya memang kurang berminat
-menjadi seorang Khan Agung, dan otomatis juga Kaisar Dinasti Yuan. Ia seorang anak muda terpelajar yang mencintai seni,
-suka bertualang dan bermain-main. Ketika akhirnya bertemu dengan seorang mantan tawanan perang Goryeo yang akhirnya
-menjadi permaisurinya, Ki Seung Nyang, yang dikenal luas sebagai Qi Huanghou, ia jatuh cinta pada pandangan pertama.
-
-Ki Seung Nyang muda saat itu adalah seorang pelayan istana, dan setelah mengalami perjalanan penuh liku, akhirnya 
-Toghon berhasil menjadikannya Selir Ki, yang bertentangan dengan tradisi Dinasti Yuan, yang tidak mengijinkan seorang
-perempuan dari suku lain di luar Mongolia menjadi seorang selir. Tradisi ini sudah berkembang puluhan tahun, meskipun
-sebenarnya Kubilai Khan sendiri sama sekali tidak pernah mengeluarkan peraturan semacam itu.
-
-Alhasil, dalam kurang lebih dari sepuluh tahun karir Selir Qi yang akhirnya menjadi Permaisuri Qi semakin meroket, 
-pengaruhnya dalam politik juga semakin besar. Kaisar hampir tidak pernah menolak untuk mendukung gagasan-gagasannya, 
-termasuk yang sangat kontroversial. Selir Qi sangat cerdas, baik dalam bidang politik maupun ekonomi.
 
 Sekitar waktu yang bersamaan dengan kembalinya Zhang Wuji, Zhao Min, Zhou Zhiruo dan Xie Xun dari Pulau Ular,
 Qi Huanghou mulai melakukan kampanye untuk mendukung penobatan putranya menjadi kaisar menggantikan Toghon.
@@ -849,6 +998,8 @@ lebih takjub lagi. Mereka berpikir, "Di acara perkawinan Jiaozhu di Haozhou, ked
 dengan sengit, tapi sekarang mereka bisa akur seperti saudara. Entah bagaimana cara Jiaozhu mendamaikan mereka. Dia
 sungguh bisa mewujudkan apa yang sebetulnya mustahil. Qian Kun Da Nuo Yi sungguh mengagumkan."
 
+**———————— Bagian ini perlu disingkirkan —————**
+
 Peng Yingyu menunggu sampai kedua wanita itu keluar, lalu ia membungkuk dan berkata, "Lapor, Jiaozhu! Kita menderita
 kekalahan besar di Haozhou. Han Xiong — Han Shantong — jatuh."
 
@@ -868,9 +1019,11 @@ Yin Yewang berkata, "Di luar dugaan, bangsat itu ternyata membaur dengan orang-o
 Kudengar dia berhasil mengambil hati dan kepercayaan Xu Shouhui."
 
 Zhang Wuji berpikir sejenak dan berkata, "Kalau begitu, sangat tidak pantas bagi kita untuk bertindak sembarangan.
-Jiujiu, aku harus merepotkanmu untuk mengirim orang kepada Xu Xiong. Kita harus memperingatkan dia supaya waspada,
+Jiujiu[^jiujiu], aku harus merepotkanmu untuk mengirim orang kepada Xu Xiong. Kita harus memperingatkan dia supaya waspada,
 pengkhianat Chen Youliang ini sangat licik dan jahat. Dengan membiarkannya ada di sisinya, Xu Xiong seperti menunggu
 bencana. Pendeknya ia harus bisa menjauhi Chen Youliang."
+
+[^jiujiu]: Jiu Jiu (舅舅) adalah sebutan untuk seorang **Paman** dari pihak ibu — saudara laki-laki ibu. Di Indonesia kita tidak membedakan antara seorang paman dari pihak ayah atau ibu. Umumnya kita sebut Pak De, Pak Lik, atau Om. Di Tiongkok atau di antara orang-orang keturunan Tionghoa yang masih memelihara tradisi ini, sebutan untuk saudara laki-laki dari pihak ayah adalah Shu Shu (叔叔). Sebutan Shushu lebih umum, dan bisa dipakai untuk memanggil salah seorang teman akrab ayah kita. Istilah Jiujiu ini dalam dialek Hokkian, atau yang lebih sering kita dengar di kalangan masyarakat Tionghoa di Indonesia adalah 'Engku'.
 
 Yin Yewang mengiyakan, tapi kemudian ia melanjutkan, "Rasanya akan lebih baik kalau kita menyingkirkannya sama sekali
 menggunakan pedang. Tolong kirim aku untuk menangani dia!"
@@ -901,6 +1054,9 @@ dan pada akhirnya ia kehilangan nyawa di tangan Chen Youliang. Setelah itu Chen 
 pasukan sayap barat Ming Jiao. Mereka memenangkan pertempuran sejauh Danau Poyang, sampai akhirnya pasukannya kalah
 dan ia tewas di medan tempur. Dalam peperangan selama belasan tahun ini, para pejuang Ming Jiao telah menderita
 kerugian sangat berat.
+
+**————— Batas akhir yang harud disingkirkan —————**
+
 
 ## Titik Awal dan Akhir
 

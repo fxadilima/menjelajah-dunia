@@ -8,8 +8,8 @@ description: Novel Menjelajah Dunia, Bab 1, Antara ada dan tiada.
 # Bab 1
 
 <div class="w3-bar w3-white">
-<a href="./intro" class="w3-btn w3-black w3-hover-red w3-round-large w3-bar-item w3-left">&#8592; Previous</a>
-<a href="./bab2" class="w3-btn w3-black w3-hover-red w3-round-large w3-bar-item w3-right">Next &#8594;</a>
+    <a href="./yttlj/ending" class="w3-btn w3-black w3-hover-red w3-round-large w3-bar-item w3-left">&#8592; Previous</a>
+    <a href="./bab2" class="w3-btn w3-black w3-hover-red w3-round-large w3-bar-item w3-right">Next &#8594;</a>
 </div>
 
 
@@ -18,7 +18,7 @@ description: Novel Menjelajah Dunia, Bab 1, Antara ada dan tiada.
 Saat ini sebuah impian seolah-olah sedang menuju ke titik nol bagi Zhang Wuji, pengkhianatan oleh
 Zhu Yuanzhang, Chang Yuchun dan Xu Da sama sekali di luar dugaannya. Impiannya tentang negara yang aman 
 dan damai sepertinya makin menjauh. Kalau orang seperti Zhu Yuanzhang dibiarkan memimpin, maka ia bisa 
-melupakan tentang 'damai dan aman'.
+melupakan tentang 'aman dan damai'.
 
 Kemunculan Zhou Zhiruo sungguh-sungguh menambah rumit pikirannya, mendadak angan-angannya seakan tak satupun
 bakal terwujud. Tapi di luar dugaannya, saat ini Zhao Min terlihat jauh lebih tenang, bukan seperti 
@@ -1030,9 +1030,11 @@ Zhou Zhiruo menyela, "Aku pernah mendengar tentang Bai Lianshe ini dari Shifu, m
 Donglin di Jiangzhou."
 
 "Benar," kata Fan Yao. "Kuil Donglin itu sudah ada sejak jaman kuno, sebelum Dinasti Tang. Ini ajaran Buddha Mahayana 
-yang disebarkan oleh Biksu Huiyan. Tetapi seorang pedagang kain dari Luotian yang bernama Xu Shouhui memulai sebuah
-gerakan dengan menyamar sebagai pengikut ajaran ini. Akhirnya justru dialah yang pertama-tama mendeklarasikan diri
-sebagai Raja Han di Jiangzhou. Berikutnya bahkan menganggap diri kaisar sebuah negara dengan nama Kekaisaran Tianwan."
+yang disebarkan oleh Biksu Huiyan. Tetapi seorang pedagang kain dari Luotian yang bernama 
+[Xu Shouhui](yttlj/ending "Xu Shouhui adalah pemimpin pemberontak dari Jiangzhou. Klik untuk membaca lebih detil.") 
+memulai sebuah gerakan dengan menyamar sebagai pengikut ajaran ini. Akhirnya justru dialah yang pertama-tama 
+mendeklarasikan diri sebagai Raja Han di Jiangzhou. Berikutnya bahkan menganggap diri kaisar sebuah negara dengan 
+nama Kekaisaran Tianwan."
 
 Zhang Wuji agak bingung, ia bertanya, "Di Jiangzhou? Tadinya kukira Xu Shouhui ini anggota Ming Jiao?"
 
