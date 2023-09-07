@@ -1,54 +1,35 @@
-# Astro Starter Kit: Basics
+# Pedang dan Golok Menjelajah Dunia
 
-```
-npm create astro@latest -- --template basics
-```
+Cerita ini disusun berdasarkan karakter-karakter yang ada di dalam novel laris karya Louis Cha, atau
+lebih dikenal sebagai Jin Yong, yang berjudul Yitian Tulong Ji[^judul-1], atau lebih populer dalam judul
+bahasa Indonesia 'Pedang Langit dan Golok Pembunuh Naga'.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[^judul-1]: Yi Tian Tu Long Ji (倚天屠龙记), secara berturut-turut arti literal kelima karakter itu adalah, 'Bersandar pada', 'Langit/Surga/Tuhan', 'Jagal/Menyembelih/Membunuh', 'Naga', dan 'Kenangan/Kisah/Cerita'. Karena itu istilah tersebut seharusnya diterjemahkan menjadi 'Kisah Bersandar pada Langit untuk membunuh Sang Naga'. Tetapi di sepanjang cerita kita akan sering membaca atau mendengar istilah Yi Tian Jian (倚天剑), di mana karakter Jian (剑) adalah 'Pedang'. Dan juga istilah Tulong Dao (屠龙刀) yang berarti 'Golok yang membunuh Sang Naga'. Ini membuat istilah 'Pedang Langit dan Golok Pembunuh Naga' menjadi masuk akal untuk diterima sebagai sebuah judul. Tetapi judul aslinya sebenarnya tidak bermakna demikian. Barangkali judul 'Kisah Membunuh Sang Naga dengan Kehendak Surga' lebih sesuai dengan judul aslinya.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Plot-plot yang ada di dalamnya diceritakan ulang sedemikian rupa sehingga lebih sesuai dengan fakta-fakta sejarah nyata.
+Seperti diketahui, banyak cerita karangan Jin Yong mengandung fakta yang diambil dari sejarah, lengkap dengan tokoh-tokoh
+di dunia nyata yang pernah hidup dan berkarya di eranya masing-masing. Biasanya terdapat bias, atau ketidaktepatan yang
+memang disengaja mengenai nama-nama tempat, atau tokoh-tokoh sejarah ini. Seperti misalnya, Chen Youliang dalam dunia nyata
+memang pernah bergabung dengan sebuah pemberontakan melawan Dinasti Yuan yang dikenal dengan nama Pemberontakan Hong Ji, atau
+'Ikat Kepala Merah', karena para anggotanya biasa mengenakan ikat kepala merah. Tetapi Chen Youliang tentu saja bukan 
+murid dari Yuanzhen Dashi dari Shaolin, dan juga tidak pernah menjadi anggota Kai Pang.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Saya berusaha menyusun ulang rangkaian peristiwa yang terkait dengan tokoh-tokoh sejarah, supaya lebuh sesuai dengan
+fakta, terutama sekali tahun-tahun terjadinya peristiwa yang berkaitan. Upaya ini bukan semuanya bisa kita lakukan.
+Selain kurangnya bahan yang terdapat di internet, juga karena jalinan cerita itu sendiri yang tidak memungkinkan kita
+membuat perubahan yang perlu.
 
-## 🚀 Project Structure
+## Titik Sambung
 
-Inside of your Astro project, you'll see the following folders and files:
+Inti cerita 'Pedang dan Golok Menjelajah Dunia' ini dimulai dari titik ketika Zhang Wuji dan Zhao Min, bersama para 
+anggota Ming Jiao lainnya, bersama-sama terkepung oleh pasukan pemerintah di bawah komando Jendral Chaghan Temur, 
+di Shaolin. 
 
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Ketika itu mereka berhasil membebaskan Shaolin dari kepungan, dan pasukan pemerintah berkat kitab yang berisi strategi
+militer warisan dari Jendral Yue Fei. Plot ini adalah bagian akhir dari cerita asli Yitian Tulong Ji, tetapi di sini
+kita pakai sebagai titik awal.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Jin Yong merevisi cerita ini berkali-kali, terutama sekali di bagian akhir. Di sini yang kita pakai adalah hasil
+revisi sekitar tahun 2005.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
