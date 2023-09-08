@@ -8,7 +8,7 @@ description: Menuju kemenangan besar, sebuah titik awal dan titik akhir.
 <div class="w3-panel w3-card-4">
     <div class="w3-bar w3-white">
         <a href="intro" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">&#8592; Previous</a>
-        <a href="bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">Yitian Tulong Ji Bab 1</a>
+        <a href="/yttlj/bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">Yitian Tulong Ji Bab 1</a>
         <a href="../bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-right">Next &#8594;</a>
     </div>
 </div>
