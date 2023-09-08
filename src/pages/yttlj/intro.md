@@ -211,6 +211,8 @@ mereka juga mengeksekusi mertua Li Tan, Wang Wentong, yang telah diangkat menjad
 Sekretariat Pusat[^zhongshu-sheng] di awal kekuasaan Kubilai, dan telah menjadi pejabat yang paling dipercaya oleh
 Kubilai dari kalangan suku Han. Insiden ini menimbulkan ketidakpercayaan di pihak Kubilai terhadap suku Han.
 
+[^zhongshu-sheng]: Zhong Shu Sheng (中書省), disebut juga sebagai Sekretariat Pusat atau Sekretariat Istana, adalah posisi di dalam struktur pemerintahan Tiongkok kuno peninggalan Dinasti Cao Wei (220-266 M). Pemerintahan yang dibentuk oleh Kubilai Khan tetap mempertahankan posisi ini.
+
 Konon, setelah ia menjadi kaisar, Kubilai melarang keras penganugerahan gelar bagi para pemimpin perang dari kalangan
 suku Han.
 
@@ -847,3 +849,4 @@ Tolui, ia mau tidak mau teringat akan Huazheng.
 
 Kubilai Khan sangat menghormati Guo Jing, ketika mereka bertemu di markasnya lebih dari lima belas tahun yang lalu,
 ia memanggil Guo Jing 'Paman Guo'. 
+

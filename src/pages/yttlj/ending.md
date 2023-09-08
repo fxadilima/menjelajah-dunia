@@ -8,6 +8,7 @@ description: Menuju kemenangan besar, sebuah titik awal dan titik akhir.
 <div class="w3-panel w3-card-4">
     <div class="w3-bar w3-white">
         <a href="./intro" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">&#8592; Previous</a>
+        <a href="./bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-left">Yitian Tulong Ji Bab 1</a>
         <a href="../bab1" class="w3-btn w3-white w3-hover-black w3-bar-item w3-right">Next &#8594;</a>
     </div>
 </div>
@@ -30,6 +31,15 @@ Hanya dalam beberapa bulan, mereka berhasil menaklukkan wilayah Qizhou (蘄州),
 komando militer Pemberontak Hong Jin. Akhirnya Xu Shouhui mendeklarasikan Kekaisaran yang bernama Tianwan (天完). Awalnya ia
 menggunakan nama Song (宋) untuk negara yang didirikannya. Xu Shouhui menjadi kaisar pertama dengan nama era Zhiping (治平).
 
+Kira-kira di tahun inilah 
+[Zhang Wuji dan Yang Buhui](./bab14#bencana-kelaparan "Perjalanan Zhang Wuji dan Yang Buhui ke Guangming Ding mencari Yang Xiao.") 
+Zhang Wuji yang saat itu baru sekitar 13 tahun mengantarkan Yang Buhui yang baru ditinggal mati ibunya ke Guangming Ding
+untuk mencari Yang Xiao.
+
+Tercatat dalam sejarah, Chen Youliang bergabung dengan Jendral Ni Wenjun, yang bernaung di bawah komando Xu Shouhui.
+
+## Teror Bandit di Shenqiu, Henan
+
 Di tahun yang sama para penduduk Shenqiu, propinsi Henan, diteror oleh kelompok bandit lokal yang juga mengancam beberapa
 wilayah tetangga. Seorang penduduk setempat yang bernama Chaghan Temur, berhasil meredam teror tersebut dengan menggalang 
 para petugas keamanan dan militer lokal di Shenqiu. Ia adalah seorang sipil yang lulus dari ujian negara tingkat propinsi 
@@ -43,8 +53,8 @@ Urusan Pajak, di wilayahnya. Saat itu berhasil merekrut lebih dari sepuluh ribu 
 
 [^ruyang]: Ruyang Wang (汝陽王 atau 汝阳王) adalah gelar kebangsawanan yang diberikan kepada ayah Zhao Min. Karakter Wang (王) sebenarnya memang berarti 'raja', tetapi berbeda dengan 'Kaisar'. Raja di sini kurang lebih adalah setingkat Gubernur atau Kepala Daerah. Ruyang adalah nama sebuah wilayah di propinsi Henan, wilayah ini berada di bawah kekuasaan Luoyang.
 
-Teror para bandit di Shenqiu itu sebenarnya adalah sebuah gejala awal merosotnya Dinasti Yuan. Orang banyak menyalahkan 
-sebuah proyek untuk membangun bendungan dan mengeruk sungai untuk mengatasi banjir besar yang terjadi pada tahun 1344 
+Teror para bandit di Shenqiu itu sebenarnya adalah awal merosotnya Dinasti Yuan. Orang banyak menyalahkan sebuah proyek 
+untuk membangun bendungan dan mengeruk sungai untuk mengatasi banjir besar yang terjadi pada tahun 1344 
 akibat meluapnya Sungai Kuning, yang menyebabkan krisis berkepanjangan di Khanbaliq[^khanbaliq].
 
 Pada tahun 1355, Chaghan berarak ke Utara. Setelah melalui serangkaian peperangan ia berhasil meredam kekacauan di Hebei.
@@ -52,9 +62,7 @@ Majelis Kekaisaran menganugerahkan posisi sipil kepadanya. Pada tahun 1356 ia me
 Urusan Perang. Di antara suku Han ia lebih dikenal sebagai Pangeran Ruyang[^ruyang] atau Raja Ruyang, karena saat itu
 keluarganya menempati rumah dinas di wilayah Ruyang, Henan. 
 
-[^khanbaliq]: Khanbaliq adalah nama ibukota Dadou, atau Beijing di dunia modern, dalam bahasa Mongolia. Artinya adalah 'Kota Para Khan'.
-
-Tercatat dalam sejarah, Chen Youliang bergabung dengan Jendral Ni Wenjun, yang bernaung di bawah komando Xu Shouhui.
+[^khanbaliq]: Khanbaliq adalah nama ibukota Dinasti Yuan, Dadou, atau Beijing di dunia modern, dalam bahasa Mongolia. Artinya adalah 'Kota Para Khan'.
 
 Chaghan hampir selalu berada di medan tempur dan jarang hadir di istana, tetapi kiprahnya menarik perhatian Kaisar Toghon 
 Temur dan Qi Huanghou[^empress-ki]. Setiap kali Chaghan pulang dari garis depan, ia selalu diundang secara khusus ke 
@@ -64,7 +72,7 @@ selalu mengundang beberapa menteri lain beserta keluarga mereka. Hanya dengan se
 bersama Chaghan akan memasuki sebuah ruangan jika ada suatu hal penting untuk dibicarakan. Dengan demikian Zhao Min 
 dan Wang Baobao sama sekali tidak asing dengan lingkungan dalam istana.
 
-[^empress-ki]: Nama ini bahasa mandarin seharusnya diromanisasi menjadi Qi Huanghou (奇皇后), tapi banyak artikel menggunakan Gi Huanghou untuk nama yang sama. Dalam Hangul adalah 기황후, Hanja 奇皇后. Nama aslinya adalah Ki Seung Nyang. Ia dilahirkan di Kerajaan Goryeo dan adalah keturunan bangsawan setempat, yang sempat menjadi tawanan perang Dinasti Yuan. Ia kemudian bekerja sebagai pelayan yang bertugas menyajikan teh di istana Dinasti Yuan, dan bertemu dengan Toghon Temur. 
+[^empress-ki]: Nama ini adalah bahasa mandarin yang seharusnya diromanisasi menjadi Qi Huanghou (奇皇后), tetapi banyak artikel menggunakan Gi Huanghou untuk nama yang sama. Dalam Hangul adalah 기황후, Hanja 奇皇后. Nama aslinya adalah Ki Seung Nyang. Ia dilahirkan di Kerajaan Goryeo dan adalah keturunan bangsawan setempat, yang sempat menjadi tawanan perang Dinasti Yuan. Ia kemudian bekerja sebagai pelayan yang bertugas menyajikan teh di istana Dinasti Yuan, dan bertemu dengan Toghon Temur. 
 
 Putra Mahkota pilihan Kaisar Toghon Temur adalah Pangeran Ayushiridara, yang dilahirkan oleh Selir Qi sebelum ia 
 diangkat menjadi permaisuri. Koke Temur, atau Wang Baobao, lebih tua beberapa tahun dibandingkan Sang Pangeran, dan 
@@ -73,7 +81,7 @@ ia sangat suka berlatih seni bela diri. Wang Baobao menemaninya berlatih. Tentu 
 mengalah demi mengambil hati pangeran. 
 
 Suatu hari Zhao Min remaja yang baru menginjak usia 13 tahun, dan sudah mendapat gemblengan dasar-dasar kungfu dari 
-Fan Yao sejak usia 9 tahun, menonton kakaknya berlatih dengan pangeran muda itu. Ketika melihat kakaknya jatuh 
+Fan Yao sejak usia 9 tahun, menonton kakaknya berlatih gulat dengan pangeran muda itu. Ketika melihat kakaknya jatuh 
 terjungkal, ia dengan gesit bersalto beberapa kali mendekati mereka, lalu melompat secepat kilat dengan tinjunya 
 terarah langsung ke hidung Ayushiridara yang jauh lebih tinggi ketimbang dirinya. Pangeran itu terkesiap dan tidak 
 mampu mengelak. Pukulan itu mengenai hidung Sang Pangeran dengan telak sampai berdarah, dan ia jatuh terjengkang, 
@@ -201,12 +209,18 @@ dengan Xie Xun[^xie-xun], simbol tersebut sangat jelas.
 
 [^xie-xun]: Xie Xun (謝遜) adalah salah seorang 'Raja' di Ming Jiao yang berjuluk 'Raja Singa Berambut Emas', atau Jin Mao Shi Wang (tradisional: 金毛獅王, disederhanakan: 金毛狮王). Ia adalah ayah angkat Zhang Wuji dan sekaligus kakak angkat kedua orang tuanya, Zhang Cuishan dan Yin Soso.
 
-Menjelang acara itu terselenggara, sudah jatuh beberapa korban. Di antaranya adalah dari pihak Kunlun Pai, suami-istri
-pemilik rumah tempat Zhang Wuji dan Zhao Min sempat menginap, dan beberapa pihak lain.
+Sebelum acara itu sendiri terselenggara, sudah jatuh beberapa korban. Di antaranya adalah dari pihak Kunlun Pai, 
+suami-istri pemilik rumah tempat Zhang Wuji dan Zhao Min sempat menginap, dan beberapa pihak lain.
 
 Ketika acara 'Membunuh Singa' itu sendiri akhirnya berlangsung, orang dikejutkan dengan berbagai perubahan yang
 terjadi di kubu Emei Pai yang dipimpin oleh Zhou Zhiruo. Mereka berubah menjadi kejam, licik, dan tidak segan-segan
 menggunakan cara-cara tidak lazim untuk memperoleh kemenangan atau membungkam orang.
+
+Berikutnya semua orang lebih kaget lagi ketika melihat Song Qingshu, putra tunggal murid tertua Wudang, Song Yuanqiao,
+sekarang telah menjadi murid Emei, dan sekaligus suami Zhou Zhiruo yang saat itu menjadi ketua Emei. Sebelumnya
+mereka telah mendengar bahwa Ketua Emei Pai, Zhou Zhiruo mellangsungkan pernikahan dengan Ketua Ming Jiao, Zhang Wuji.
+Sayangnya pernikahan itu telah diganggu oleh kedatangan Shaomin Junzhu yang akhirnya mengajak Zhang Wuji meninggalkan
+tempat itu, meninggalkan teka-teki bagi semua orang yang menghadiri upacara pernikahan mereka.
 
 Di akhir acara, ketika akhirnya misteri-misteri terbongkar setelah Zhou Zhiruo ditaklukkan oleh Wanita Berbaju Kuning,
 dan Xie Xun akhirnya membutakan kedua mata Cheng Kun, mereka kembali dikejutkan oleh berita bahwa mereka telah
@@ -221,15 +235,15 @@ Pada saat itu semua pendekar yang hadir bersorak, Ming Jiao makin kuat, Zhang Wu
 Tetapi di luar dugaan, ia akhirnya menyerahkan kitab warisan Jendral Yue Fei tersebut kepada Xu Da untuk digunakan
 dalam peperangan.
 
-"Sebetulnya semuanya ini bukan karena kehebatan seorang Zhang Wuji," katanya dengan rendah hati. "Aku sama sekali
+"Sebetulnya semuanya ini bukan karena kehebatan seorang Zhang Wuji," kata Zhang Wuji merendah. "Aku sama sekali
 bukan ahli perang, bahkan sama sekali tidak memahami strategi militer. Tetapi Jendral Besar Yue Fei telah mewariskan
 tulisan tangannya sendiri, seperti yang tertulis dalam salinan ini. Selama ini semuanya tersimpan di dalam Tulong Dao,
 yang baru bisa kita ketahui setelah kita juga mendapatkan Yitian Jian. Itu pun kalau kita tahu rahasia di balik
 kedua senjata pusaka itu."
 
 Sekitar waktu yang bersamaan dengan kembalinya Zhang Wuji, Zhao Min, Zhou Zhiruo dan Xie Xun dari Pulau Ular,
-Qi Huanghou mulai melakukan kampanye untuk mendukung penobatan putranya menjadi kaisar menggantikan Toghon.
-Tetapi Toghon tidak mau mengundurkan diri, dan ia mencium aksi ini. Keretakan mulai terjadi, Toghon agak 
+Qi Huanghou[^empress-ki] mulai melakukan kampanye untuk mendukung penobatan putranya menjadi kaisar menggantikan Toghon.
+Tetapi Toghon mencium aksi ini, dan ia tidak mau mengundurkan diri. Keretakan mulai terjadi, Toghon agak 
 menjauh dari Qi Huanghou.
 
 Konflik ini makin lama makin tajam, dan juga melebar ke kawasan lain, memecahkan Majelis Tinggi Kekaisaran
