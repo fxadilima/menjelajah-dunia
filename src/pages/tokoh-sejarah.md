@@ -165,7 +165,7 @@ terang-terangan anti-pemerintah pun menjadi populer.
 Cerita rakyat di kedai-kedai arak dan opera-opera yang memang populer di era Dinasti Yuan mulai berani menyinggung
 topik yang sensitif di kalangan terbatas. Tentu saja cerita seperti ini sebagian besar adalah berlebihan.
 
-Salah satu tokoh terpopuler saat itu adalah Han Shandong.
+Salah satu tokoh terpopuler saat itu adalah Han Shantong.
 
 Satu hal yang patut dicatat di masa itu adalah, seringkali para pejuang anti-pemerintah yang sungguh berjuang untuk 
 kepentingan rakyat sulit dibedakan dengan sekelompok bandit.

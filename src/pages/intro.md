@@ -84,7 +84,7 @@ Ia mempelajari sebagian ilmu dari Jiu Yang Zhen Jing, dan sebagian lagi dipelaja
 memiliki ilmu yang tidak lengkap, karena kitab asli ilmu itu sendiri tidak berhasil didapatkan. 
 
 Sekitar 80 tahun kemudian Zhang Sanfeng teringat akan peristiwa ini ketika anak yang dititipkan murid kesayangannya,
-[Zhang Cuisan](#zhang-cuisan-dan-yin-soso "Riwayat singkat Zhang Cuisan dan Yin Soso"), yang ketika itu baru menjelang 
+[Zhang Cuishan](#zhang-cuishan-dan-yin-soso "Riwayat singkat Zhang Cuisan dan Yin Soso"), yang ketika itu baru menjelang 
 10 tahun, terkena Telapak Dewa Xuanming, dan ia sendiri tidak mampu menyelamatkannya.
 
 Tujuh murid Zhang Sanfeng yang terkenal sebagai Tujuh Pendekar Wudang adalah:
@@ -117,9 +117,9 @@ misterius menghilang tanpa jejak setelah menyerahkan kepemimpinan Wudang kepada 
 Di usia tuanya ia telah menyempurnakan Jurus Tai Chi, yang hingga hari ini, di jaman modern, masih tetap populer
 dan _minimal_ dianggap sebagai olah raga yang menyehatkan.
 
-## Zhang Cuisan dan Yin Soso
+## Zhang Cuishan dan Yin Soso
 
-Zhang Cuisan pulang ke Zhongyuan[^zhongyuan] bersama Yin Soso dan Zhang Wuji yang saat itu baru menjelang 10 tahun,
+Zhang Cuishan pulang ke Zhongyuan[^zhongyuan] bersama Yin Soso dan Zhang Wuji yang saat itu baru menjelang 10 tahun,
 menjelang hari ulang tahun ke-100 gurunya. Sebelumnya mereka bertiga, bersama Xie Xun, terjebak di Pulau Api dan Es[^binghuodao].
 Setelah berhasil merebut Golok Pembunuh Naga dari Tian Yingjiao, Xie Xun memutuskan untuk mengasingkan diri, dan
 di luar dugaan ia juga memaksa Zhang Cuisan dan Yin Soso untuk mengikutinya. Hal inilah yang membuat Zhang Wuji 
@@ -128,7 +128,7 @@ orang tuanya dan Xie Xun.
 
 [^zhongyuan]: Zhong Yuan (中元) secara literal berarti 'Dataran Pusat', atau Mainland. Istilah ini dipakai untuk mewakili wilayah yang dikuasai oleh Kekaisaran Tiongkok kuno, dari dinasti manapun. Dari generasi ke generasi perbatasan memang bisa berubah, tetapi wilayah di sekitar Sungai Yangtze dan Sungai Kuning adalah tetap.
 
-[^binghuodao]: Pulau Api dan Es, atau Bing Huo Dao (冰火岛), adalah pulau tempat Xie Xun terdampar bersama Zhang Cuisan dan Yin Soso. Akhirnya Zhang Wuji dilahirkan di situ.
+[^binghuodao]: Pulau Api dan Es, atau Bing Huo Dao (冰火岛), adalah pulau tempat Xie Xun terdampar bersama Zhang Cuishan dan Yin Soso. Akhirnya Zhang Wuji dilahirkan di situ. Pulau ini terletak di dekat Siberia.
 
 Zhang Cuisan adalah murid ke-5 dari Zhang Sanfeng, dan otomatis termasuk 7 Pendekar Wudang. Orang mengenal dan
 memasukkan Wudang dalam kategori 'Aliran Lurus'. Sebaliknya, Yin Soso adalah putri Yin Tianzheng, yang adalah
