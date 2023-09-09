@@ -16,7 +16,7 @@ description: Menuju kemenangan besar, sebuah titik awal dan titik akhir.
 # Shaolin, 1362 — Pertemuan Besar Untuk Membunuh Singa
 
 Menjelang runtuhnya Dinasti Song Selatan, ketika Guo Jing dan Huang Rong mengadakan 
-[Pertemuan Besar Para Pendekar](../sdxl/pertemuan-besar "Bandingkan dengan acara yang digelar Guo Jing.") 
+[Pertemuan Besar Para Pendekar](/sdxl/pertemuan-besar "Bandingkan dengan acara yang digelar Guo Jing.") 
 yang didukung oleh Lu Guanyin[^lu-guanying] dan istrinya, topik yang mencuat adalah pemilihan seorang tokoh yang 
 berfungsi untuk menggalang persatuan seluruh pendekar Wulin untuk melawan serbuan Mongolia.
 
