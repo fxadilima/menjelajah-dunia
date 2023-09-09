@@ -13,7 +13,6 @@ description: Menuju kemenangan besar, sebuah titik awal dan titik akhir.
     </div>
 </div>
 
-
 # Shaolin, 1362 — Pertemuan Besar Untuk Membunuh Singa
 
 Menjelang runtuhnya Dinasti Song Selatan, ketika Guo Jing dan Huang Rong mengadakan 
@@ -891,7 +890,7 @@ pasukan sayap barat Ming Jiao. Mereka memenangkan pertempuran sejauh Danau Poyan
 dan ia tewas di medan tempur. Dalam peperangan selama belasan tahun ini, para pejuang Ming Jiao telah menderita
 kerugian sangat berat.
 
-**————— Batas akhir yang harud disingkirkan —————**
+**————— Batas akhir yang harus disingkirkan —————**
 
 
 ## Titik Awal dan Akhir

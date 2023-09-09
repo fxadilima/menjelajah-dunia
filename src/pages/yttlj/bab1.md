@@ -36,7 +36,7 @@ Pada saat itu dua orang pendekar besar lainnya â€” Ouyang Feng dan Hong Qigong â
 juga meninggal di puncak Hua Shan, dan dimakamkan oleh Yang Guo.
 
 Di puncak itu ada sebuah kuil kecil yang di sebelahnya ada sebuah patung kuda, nama kuil itu adalah Kuil Nona Giok.
-Di dalam kuil itu ada sebuha batu besar yang bagian tengahnya berlubang, di dalam lubang itu selalu ada air jernih.
+Di dalam kuil itu ada sebuah batu besar yang bagian tengahnya berlubang, di dalam lubang itu selalu ada air jernih.
 Yang Guo sebelumnya pernah naik ke puncak itu, dan Hong Qigong pernah menceritakan kepadanya banyak hal menarik
 tentang Hua Shan.
 
@@ -49,7 +49,7 @@ kejaran Biksu Jueyuan dan Zhang Junbao. Mereka membocorkan persembunyian kedua o
 terlibat perkelahian dengan Yin Kexi dan Xiaoxiang Zi.
 
 [Cerita tentang Guo Xiang dan Zhang Junbao](./intro#tahun-1262-guo-xiang-dan-zhang-junbao) adalah masa transisi
-dari akhir era Dinasti Song Selatan dan Dinasti Yuan. Pada saat itu Kubilai Khan sedang terbelit oleh masalah
+dari akhir era Dinasti Song Selatan hingga awal Dinasti Yuan. Pada saat itu Kubilai Khan sedang terbelit oleh masalah
 internal yang timbul akibat adik kandungnya menguasai Karakorum di Mongolia, dan terus-menerus menentangnya.
 Hal ini membuat situasi di Xiang Yang yang dikawal ketat oleh para pendekar dunia persilatan pimpinan Guo Jing
 menjadi relatif aman.
@@ -76,7 +76,7 @@ termasuk ibunya senddiri.
 Menjelang ulang tahunnya yang keenam belas, Guo Xiang mendengar cerita rakyat yang beredar di Xiang Yang dan sekitarnya
 mengenai Pendekar Rajawali[^pendekar-rajawali]. Sejak itu ia terobsesi ingin bertemu langsung dengan pahlawan hebat ini.
 Setelah akhirnya ia bertemu langsung dengan Pendekar Rajawali yang terkenal itu, ia langsung terlibat petualangan yang
-berbahaya dan mendebarkan bersama-sama dengannya. Kerika itu Yang Guo memakai sebuah topeng untuk menutupi wajahnya
+berbahaya dan mendebarkan bersama-sama dengannya. Ketika itu Yang Guo memakai sebuah topeng untuk menutupi wajahnya
 yang tampan, karena ia tidak ingin menarik perhatian orang, yang bisa menimbulkan berbagai masalah baru baginya.
 
 Yang Guo sedang dalam penantian. Istrinya, Xiao Longnu, dibawa pergi ke Laut Selatan oleh seorang pendekar wanita
@@ -99,11 +99,22 @@ diperlukan untuk menyelamatkan jiwanya. Xiao Longnu sendiri juga keracunan, dan 
 Begitu Guo Xiang mendengar cerita itu, ia segera meninggalkan Xiang Yang untuk mencari Yang Guo, dengan tujuan untuk
 mencegah Yang Guo bunuh diri kalau pada hari yang dijanjikan ia tidak bertemu dengan istrinya.
 
+Tapi ketika Guo Xiang tiba di situ ternyata Yang Guo sudah melompat ke jurang yang dalam. saat itu ia sendiri juga
+ikut melompat mengikutinya. Jinlun Fawang yang berusaha mencegahnya terlambat. Saat itu Jinlun Fawang ingin mengangkat
+Guo Xiang menjadi muridnya, tetapi Guo Xiang tidak mau.
+
+Tetapi mereka ternyata tidak mati, bahkan menemukan istri Yang Guo, Xiao Longnu, di tempat itu.
+
+Sekarang ini Yang Guo dan Xiao Longnu menghilang, dan ia tidak tahu ke mana mereka pergi. Ia datang ke Shaolin hanya
+berharap untuk mendengar sesuatu tentang Yang Guo demi mengobati kerinduannya.
+
+**Lanjutkan dari Bab 1 Yitian Tuling Ji**
 
 <div class="w3-panel">
     <div class="w3-bar w3-white">
-        <a href="./intro" class="w3-btn w3-round-large w3-white w3-hover-black w3-bar-item w3-left">&#8592; Previous</a>
-        <a href="../bab1" class="w3-btn w3-round-large w3-white w3-hover-black w3-bar-item w3-right">Next &#8594;</a>
+        <a href="/" class="w3-btn w3-round-large w3-white w3-hover-black w3-bar-item w3-right">Home</a>
+        <a href="/yttlj/intro" class="w3-btn w3-round-large w3-white w3-hover-black w3-bar-item w3-left">&#8592; Previous</a>
+        <a href="/bab1" class="w3-btn w3-round-large w3-white w3-hover-black w3-bar-item w3-right">Next &#8594;</a>
     </div>
 </div>
 

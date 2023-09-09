@@ -344,7 +344,7 @@ di Hua Shan.
 Guo Xiang teringat akan patung giok yang menurut Yang Guo dan Xiao Longnu sangat mirip dengan guru besar mereka, 
 Lin Chaoying. Menurut mereka, Lin Chaoying semasa hidupnya suka berkelana sambil menolong orang lain. Ketika
 mereka bertiga sedang berjalan di dalam gua itu, tiba-tiba Xiao Longnu merasa ada seseorang sedang berjalan mendekat.
-Ia masih ingat awalnya ia tidak terlalu mempedulikan kehadiran orang lain di situ. Ia merasa seandainya saja ia bisa
+Guo Xiang masih ingat awalnya ia tidak terlalu mempedulikan kehadiran orang lain di situ. Ia merasa seandainya saja bisa
 terus berdekatan dengan Yang Guo dan Xiao Longnu seperti saat itu, rasanya ia sudah tidak menginginkan apa-apa lagi
 di dunia ini.
 

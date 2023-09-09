@@ -5,7 +5,7 @@ author: FX. Adi Lima
 description: Novel Menjelajah Dunia, Bab 1, Antara ada dan tiada.
 ---
 
-# Bab 1
+# Menjelajah Dunia — Bab 1
 
 <div class="w3-bar w3-white">
     <a href="./yttlj/ending" class="w3-btn w3-black w3-hover-red w3-round-large w3-bar-item w3-left">&#8592; Previous</a>
@@ -15,7 +15,7 @@ description: Novel Menjelajah Dunia, Bab 1, Antara ada dan tiada.
 
 ## Antara Ada Dan Tiada, Kesepakatan Baru
 
-Saat ini sebuah impian seolah-olah sedang menuju ke titik nol bagi Zhang Wuji, pengkhianatan oleh
+Saat ini sebuah impian seolah-olah sedang menuju ke titik nol bagi Zhang Wuji. Pengkhianatan oleh
 Zhu Yuanzhang, Chang Yuchun dan Xu Da sama sekali di luar dugaannya. Impiannya tentang negara yang aman 
 dan damai sepertinya makin menjauh. Kalau orang seperti Zhu Yuanzhang dibiarkan memimpin, maka ia bisa 
 melupakan tentang 'aman dan damai'.

@@ -12,7 +12,10 @@ di dunia nyata yang pernah hidup dan berkarya di eranya masing-masing. Biasanya 
 memang disengaja mengenai nama-nama tempat, atau tokoh-tokoh sejarah ini. Seperti misalnya, Chen Youliang dalam dunia nyata
 memang pernah bergabung dengan sebuah pemberontakan melawan Dinasti Yuan yang dikenal dengan nama Pemberontakan Hong Ji, atau
 'Ikat Kepala Merah', karena para anggotanya biasa mengenakan ikat kepala merah. Tetapi Chen Youliang tentu saja bukan 
-murid dari Yuanzhen Dashi dari Shaolin, dan juga tidak pernah menjadi anggota Kai Pang.
+murid dari Yuanzhen Dashi dari Shaolin, dan juga tidak pernah menjadi anggota Kai Pang. Dan yang paling parah adalah,
+Chen Youliang dalam sejarah sudah menjadi Raja Han pada tahun 1357, dan setelah Xu Shouhui tewas ditangannya pada 
+tahun 1358, ia menjadi seorang kaisar. Pada saat itu Zhang Wuji sendiri baru keluar dari tempat persembunyiannya
+selama 6 tahun, dan belum memasuki arena persaingan.
 
 Saya berusaha menyusun ulang rangkaian peristiwa yang terkait dengan tokoh-tokoh sejarah, supaya lebih sesuai dengan
 fakta, terutama sekali tahun-tahun terjadinya peristiwa yang berkaitan. Upaya ini bukan semuanya bisa kita lakukan.
@@ -38,4 +41,17 @@ revisi sekitar tahun 2005.
 Karena target utama kita adalah menggunakan Astro, maka semua referensi dengan target dokumen markdown harus
 ditulis tanpa ekstensi \*.md, ini agak berlainan dengan GitHub, karena itu link yang dihasilkan tidak akan jalan
 kalau kita membacanya di GitHub.
+
+[Baca Online di Deno Deploy](https://kind-shrimp-99.deno.dev).
+
+Link ke halaman lain akan tidak jalan dalam deployment kalau ditulis dengan `./bab1` dari halaman di folder yang sama,
+ini karena 'bab1' dalam deployment target adalah sebuah direktori yang berisi index.html, maka browser akan mencari
+subdirektori di dalam folder terkait (dan tidak akan menemukannya).
+
+Untuk membereskan urusan ini, gunakan absolute path `/yttlj/bab1`, atau `/bab` sesuai target yang dimaksud.
+
+Nama 'Ming' akhirnya dipakai oleh Zhu Yuanzhang sebagai nama dinasti yang didirikannya, dan kita tidak bisa mengubah
+hal ini. Aliran Manikeisme dalam bahasa mandarin memang adalah 'Ming Jiao', yang artinya adalah 'Ajaran Terang'.
+
+Dalam sejarah nyata, Zhu Yuanzhang memang memperoleh dukungan dari Ming Jiao.
 
