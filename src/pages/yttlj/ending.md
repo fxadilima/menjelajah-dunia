@@ -1064,7 +1064,7 @@ suku Naiman, yang letaknya agak ke Barat, tapi tentu saja tidak sampai ke Persia
 mengenai daerah asalnya. Bagi Zhang Wuji cerita itu membuka wawasan baru yang belum pernah didengarnya, ia sangat
 tertarik dan ingin mendengar lebih banyak lagi. "Kita punya banyak waktu untuk menceritakan hal ini," kata Zhao Min
 sambil tersenyum. "Kalau kau ingin mengunjungi Xiao Zhao, aku akan tetap menemanimu. Kau tidak perlu berpikir aku
-akan marah kalau kau mengatakannya." 
+akan marah kalau kau mengatakannya."
 
 Saat itu mereka sudah tiba di lingkar luar Haozhou. Zhu Yuanzhang sudah mendengar berita kedatangan mereka, dan 
 mengirimkan kedua jendralnya, Tang He dan Deng Yu, untuk memimpin pasukan menyambut kedatangan mereka, lalu membawa
