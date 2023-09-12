@@ -1,9 +1,5 @@
 ---
-export interface Props {
-	title: string;
-}
-
-const { title } = Astro.props;
+const { frontmatter } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -11,8 +7,11 @@ const { title } = Astro.props;
     <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>{title}</title>
+        <title>{frontmatter.title}</title>
+        <meta name="generator" content={Astro.generator} />
+		<meta name="author" content={frontmatter.author} />
         <link href="/styles/w3.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
     </head>
     <body>
         <main class="w3-main">
@@ -22,9 +21,3 @@ const { title } = Astro.props;
         </main>
     </body>
 </html>
-
-<style is:global>
-    a { text-decoration: none; color:blue;}
-    a:hover { color:royalblue; }
-    a:visited { color:darkred;}
-</style>
