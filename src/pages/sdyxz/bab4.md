@@ -21,8 +21,8 @@ description: Cerita silat Memanah Burung Rajawali, Bab 3
             </p>
             <div class="w3-bar w3-border">
                 <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
-                <a href="./bab3" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 3</a>
-                <a href="./bab5" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 5 <i class="fa fa-arrow-right"></i></a>
+                <a href="/sdyxz/bab3" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 3</a>
+                <a href="/sdyxz/bab5" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 5 <i class="fa fa-arrow-right"></i></a>
             </div>
         </div>
     </div>

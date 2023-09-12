@@ -1,11 +1,32 @@
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 5
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 5
+---
+
 # Bab 5
-## Memanah Rajawali
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 5](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg) | _Temujin tersenyum, mengarahkan busurnya dan menembakkan panah besi yang, seperti petir, mengiris tubuh elang hitam. Kerumunan bertepuk tangan. Khan kemudian memberikan busurnya kepada Ogedai. "Sekarang giliranmu!"_     |
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg" alt="Gambar Ilustrasi Bab 5" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Temujin tersenyum, mengarahkan busurnya dan menembakkan panah besi yang, seperti petir, mengiris tubuh elang hitam. Kerumunan bertepuk tangan. Khan kemudian memberikan busurnya kepada Ogedai. "Sekarang giliranmu!"
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab4" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 4</a>
+                <a href="/sdyxz/bab6" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 6 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
-***
+## Memanah Elang
 
 Sederet orang turun gunung. Setelah berjalan beberapa saat, tiba-tiba mereka mendengar raungan binatang buas di depan mereka. Han Baoju melompat ke atas kuda kuningnya, dan pergi untuk melihat apa yang terjadi. Setelah berlari beberapa saat, kuda kuning itu tiba-tiba berhenti dan tidak ada desakan yang bisa membuatnya bergerak.
 
