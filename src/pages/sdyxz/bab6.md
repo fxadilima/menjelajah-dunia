@@ -349,7 +349,7 @@ wanita cantik di Selatan, kau tidak mungkin bisa melihat mereka semua." Mereka t
 memintanya untuk membantu penyerbuan ke Song, tapi dia menolak. Dia orang yang sangat cerdas, kita tidak boleh
 memberinya alasan untuk meragukan kita. Inilah alasannya kenapa harus melipat gandakan tindak pencegahan kita."
 
-Tepata pada saat itu Guo Jing merasa lengan jubahnya ditarik oleh Si Pendeta, ia berpaling dan melihat Mei Chaofeng
+Tepat pada saat itu Guo Jing merasa lengan jubahnya ditarik oleh Si Pendeta, ia berpaling dan melihat Mei Chaofeng
 di sisi lain _ger_. Ia menangkap seseorang dan kelihatannya sedang menanyainya. "Apapun niat _iblis perempuan_ ini,"
 pikir Guo Jing, "para guruku saat ini tidak terancam. Aku justru lebih perlu tahu tentang rencana busuk untuk
 mencelakai Khan, dan memikirkan apa yang sebaiknya kulakukan." Ia kembali lagi melongok ke dalam _ger_.
@@ -989,7 +989,7 @@ Kepala Suku, kenapa harus punya ambisi untuk menyatukan bangsa Mongol?"
 "Apa yang _kau_ percayai?" kata Temujin, balas bertanya.
 
 "Para pemimpin suku semuanya bilang, 'Kita sudah hidup seperti ini selama ratusan tahu, mengapa Temujin ingin
-mengubah tradisi? Surga tidak akan erestuinya!'"
+mengubah tradisi? Surga tidak akan merestuinya!'"
 
 "Kau masih ingat cerita tentang nenek-moyang kita, Bunda Alan Qo'a?" kata Temujin. "Dia punya lima orang anak yang
 selalu bertengkar. Ia lalu meminta semuanya untuk datang dan makan bersamanya. Ia memberikan sebuah anak panah kepada
