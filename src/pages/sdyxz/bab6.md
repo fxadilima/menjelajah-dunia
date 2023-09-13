@@ -1,11 +1,34 @@
-# Bab 6
-## Misteri Di Puncak Tebing
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 6
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 6
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 6](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692655/sdyxz/originals/loch-06_hqtnmd.jpg) | _Guo Jing menembakkan tiga anak panah yang melesat dengan kecepatan seperti angin, dan menewaskan tiga orang pengejar terdekat. Sambil tetap menembakkan panah, ia membunuh seorang pengejar lagi. Sementara itu, Jebe sudah tiba di dekatnya dan juga ikut menembakkan anak-anak panahnya, yang sangat cepat dan mematikan._     |
+# Bab 6
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg" alt="Gambar Ilustrasi Bab 5" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Temujin tersenyum, mengarahkan busurnya dan menembakkan panah besi yang, seperti petir, mengiris tubuh elang hitam. Kerumunan bertepuk tangan. Khan kemudian memberikan busurnya kepada Ogedai. "Sekarang giliranmu!"
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab5" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 5</a>
+                <a href="/sdyxz/bab7" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 7 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Misteri Di Puncak Tebing
 
 Tetap tinggal di dalam _ger_, mereka berenam merundingkan masalah itu. "Orang ini mengajarkan ilmu tenaga dalam tingkat
 tinggi kepada Jing'er kita." kata Han Xiaoying. "Jadi dia _pasti_ tidak punya niat untuk melukai Jing'er."
