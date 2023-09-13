@@ -1,11 +1,38 @@
-# Bab 10
-## Pertemuan Para Musuh
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 10
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 10
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 10](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692788/sdyxz/originals/loch-10_nsxcbk.jpg) | _Mengikuti arahannya, Guo Jing menempatkan Mei Chaofeng di atas bahunya dan buru-buru mengejar lawan yang melarikan diri. Tubuhnya memiliki dasar-dasar kungfu yang kuat, dan tubuh Mei Chaofeng tidak berat, jadi meskipun wanita itu bertengger di atas bahunya, kegesitannya sama sekali tidak berkurang. Ia dengan cepat melompat ke depan dan Mei Chaofeng tegak bersamanya._ |
+# Bab 10
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692788/sdyxz/originals/loch-10_nsxcbk.jpg" alt="Gambar Ilustrasi Bab 10" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Mengikuti arahannya, Guo Jing menempatkan Mei Chaofeng di atas bahunya dan buru-buru mengejar lawan 
+                yang melarikan diri. Tubuhnya memiliki dasar-dasar kungfu yang kuat, dan tubuh Mei Chaofeng tidak 
+                berat, jadi meskipun wanita itu bertengger di atas bahunya, kegesitannya sama sekali tidak berkurang. 
+                Ia dengan cepat melompat ke depan dan Mei Chaofeng tegak bersamanya.
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab9" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 9</a>
+                <a href="/sdyxz/bab11" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 11 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Pertemuan Para Musuh
+
 
 Wanyan Kang sangat terkejut ketika melihat Yang Tiexin keluar dari dalam lemari itu,
 dan kemudian mengenalinya. Ia berteriak, "Ternyata kau!" Ia mengacungkan tombak besi itu

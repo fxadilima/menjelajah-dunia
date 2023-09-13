@@ -1,11 +1,37 @@
-# Bab 7
-## Perlombaan Mencari Jodoh
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 7
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 7
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 7](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg) | _Guo Jing merampas spanduk yang bertuliskan Lomba Mencari Jodoh itu, lalu menyapu tiangnya di sepanjang lengannya. Spanduk itu terbalik di atas muka si pangeran. Si Pangeran memiringkan tubuhnya ke samping dan mengangkat tombaknya. Dengan bayangan merah melingkar dan mata tombak yang berkelap-kelip ia menusukkan tombaknya ke arah Guo Jing._     |
+# Bab 7
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg" alt="Gambar Ilustrasi Bab 7" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Guo Jing menembakkan tiga anak panah yang melesat dengan kecepatan seperti angin, dan menewaskan 
+                tiga orang pengejar terdekat. Sambil tetap menembakkan panah, ia membunuh seorang pengejar lagi. 
+                Sementara itu, Jebe sudah tiba di dekatnya dan juga ikut menembakkan anak-anak panahnya, yang 
+                sangat cepat dan mematikan.
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab6" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 6</a>
+                <a href="/sdyxz/bab8" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 8 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Perlombaan Mencari Jodoh
 
 Keenam Orang Aneh dan Guo Jing mengambil arah ke Tenggara. Perjalanan itu memakan
 waktu sangat panjang. Mereka memerlukan waktu berhari-hari hanya untuk keluar dari

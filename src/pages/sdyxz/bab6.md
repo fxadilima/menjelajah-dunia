@@ -9,13 +9,16 @@ description: Cerita silat Memanah Burung Rajawali, Bab 6
 
 <div class="w3-row-padding">
     <div class="w3-col w3-card-4 s12 m4 l4">
-        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg" alt="Gambar Ilustrasi Bab 5" width="100%" />
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692655/sdyxz/originals/loch-06_hqtnmd.jpg" alt="Gambar Ilustrasi Bab 6" width="100%" />
     </div>
     <div class="w3-col s12 m8 l8">
         <div class="w3-container">
             <h3>Ilustrasi</h3>
             <p>
-                Temujin tersenyum, mengarahkan busurnya dan menembakkan panah besi yang, seperti petir, mengiris tubuh elang hitam. Kerumunan bertepuk tangan. Khan kemudian memberikan busurnya kepada Ogedai. "Sekarang giliranmu!"
+                Guo Jing menembakkan tiga anak panah yang melesat dengan kecepatan seperti angin, dan menewaskan 
+                tiga orang pengejar terdekat. Sambil tetap menembakkan panah, ia membunuh seorang pengejar lagi. 
+                Sementara itu, Jebe sudah tiba di dekatnya dan juga ikut menembakkan anak-anak panahnya, yang 
+                sangat cepat dan mematikan.
             </p>
             <div class="w3-bar w3-border">
                 <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>

@@ -1,11 +1,46 @@
-# Bab 9
-## Tombak Berkarat dan Bajak Rusak
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 9
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 9
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 9](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg) | Yang Tiexin menurunkan tombak berkarat yang tergantung di dinding. Ia mengetuk gagang tombak itu dengan lembut sambil menghela nafas, "Tombak besi ini sudah berkarat. Ini sudah lama tidak dipakai." Wang Fei berkata dengan lembut, "Tolong jangan sentuh tombak itu. Tombak itu barang paling berharga yang aku miliki." "Betulkah?" tanya Yang Tiexin. "Tombak ini dulunya punya pasangan, tapi sekarang ia tinggal sendirian." |
+# Bab 9
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg" alt="Gambar Ilustrasi Bab 9" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Yang Tiexin menurunkan tombak berkarat yang tergantung di dinding. Ia mengetuk gagang tombak itu 
+                dengan lembut sambil menghela nafas, "Tombak besi ini sudah berkarat. Ini sudah lama tidak dipakai."
+            </p>
+            <p>
+                Wang Fei berkata dengan lembut, "Tolong jangan sentuh tombak itu. Tombak itu barang paling berharga 
+                yang aku miliki."
+            </p>
+            <p>
+                "Betulkah?" tanya Yang Tiexin. 
+            </p>
+            <p>
+                "Tombak ini dulunya punya pasangan, tapi sekarang ia tinggal sendirian."
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab8" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 8</a>
+                <a href="/sdyxz/bab10" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 10 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Tombak Berkarat dan Bajak Rusak
+
 
 Guo Jing dan Huang Rong kembali ke kediaman Pangeran Zhao dan melompati tembok tinggi untuk memasuki
 halaman. Huang Rong berbisik ke telinga Guo Jing, "Qing Gong-mu bagus sekali!" Guo Jing mengendap-endap
@@ -1390,8 +1425,10 @@ dari perguruan kita..." Kalau tidak melihat muka Sha Tongtian yang semakin murka
 ia pasti akan menyebutkan nama-nama gerakan itu.
 
 Peng Lianhu juga semakin marah. Ia berpikir, "Sejauh ini aku sudah berbaik hati dan menyerang
-dengan hati-hati, tapi anak ini lebih licik dari _Yaonu_ (妖女, 'Tukang Sihir'). Kalau tidak
+dengan hati-hati, tapi anak ini lebih licik dari Yaonu[^yao-nu]. Kalau tidak
 menggunakan cara kejam aku tidak akan bisa menebak asal-usul kungfunya."
+
+[^yao-nu]: Yao Nu (妖女) secara literal artinya adalah 'Tukang Sihir Perempuan'.
 
 Setelah mempelajari dasar-dasar ilmu silat, biasanya orang akan memilih gaya dari beberapa
 perguruan lain yang berbeda. Dengan berjalannya waktu ia bisa jadi cukup akrab dengan 
@@ -1729,7 +1766,7 @@ untuk _Niang_, tapi _Niang_ selalu menolak!"
 lengkap sekalipun! _Hai'Er_ (Anakku Sayang), kau tidak beruntung — kau belum pernah tinggal bersama
 ayah dan ibumu yang sejati di dalam tempat kumuh seperti itu."
 
-Ketika Yang Tiexin mendengar kalimat itu, ia tiba-tiba merasakan gejolak emosi dan tidak kuasa
+Ketika Yang Tiexin mendengar kalimat itu, ia tiba-tiba merasakan gejolak emosi dan tak kuasa
 menahan air matanya lagi.
 
 Wanyan Kang tertawa, "_Niang_, semakin bicara, _Niang_ jadi semakin aneh. Mana mungkin ayah bisa

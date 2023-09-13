@@ -1,11 +1,38 @@
-# Bab 8
-## Memamerkan Ilmu Silat
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 7
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 7
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 8](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg) | _Tiba-tiba terdengar suara tawa lembut dan Guo Jing berpaling, dan mendengar suara cipratan air dan sehelai daun melayang turun dari sebuah pohon. Lalu ia melihat seorang anak perempuan di bagian belakang sebuah perahu, sedang mendayung dengan santai. Rambutnya panjang melewati bahu, ia mengenakan setelan putih dari ujung kepala sampai ujung kaki, dan di rambutnya terselip sebuah jepit berwarna keemasan yang berkilau seperti api._ |
+# Bab 8
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg" alt="Gambar Ilustrasi Bab 8" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Tiba-tiba terdengar suara tawa lembut dan Guo Jing berpaling, dan mendengar suara cipratan air 
+                dan sehelai daun melayang turun dari sebuah pohon. Lalu ia melihat seorang anak perempuan di 
+                bagian belakang sebuah perahu, sedang mendayung dengan santai. Rambutnya panjang melewati bahu, 
+                ia mengenakan setelan putih dari ujung kepala sampai ujung kaki, dan di rambutnya terselip 
+                sebuah jepit berwarna keemasan yang berkilau seperti api.
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab7" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 7</a>
+                <a href="/sdyxz/bab9" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 9 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Memamerkan Ilmu Silat
 
 Wang Chuyi berlari luar biasa cepat. Dalam waktu singkat mereka sudah tiba di luar kota. Dalam 
 beberapa li, mereka sudah sampai di bawah kaki bukit. Karena penasaran ingin menguji kemampuan
@@ -36,14 +63,17 @@ ia menatap Wang Chuyi, tanpa mengerti.
 Qiu Chuji. Kau tahu itu?"
 
 "Ah!" Guo Jing tercengang. "Aku tidak menyadari ini..." Sebenarnya, Ma Yu memang mengajarkan beberapa
-ilmu dasar untuk mengendalikan tenaga dalam, dan juga ilmu meringankan tubuh yang bernama Jin Ying Fei Xiang
-(金鹰飞翔, Elang Emas Terbang), supaya ia bisa mendaki tebing terjal itu. Tetapi ia tidak mengajarkan
+ilmu dasar untuk mengendalikan tenaga dalam, dan juga ilmu meringankan tubuh yang bernama 
+Jin Ying Fei Xiang[^jin-ying-fei-xiang], 
+supaya ia bisa mendaki tebing terjal itu. Tetapi ia tidak mengajarkan
 teknik berkelahi atau ketrampilan memegang senjata sekecil apapun. Itulah sebabnya Guo Jing sama sekali
 tidak memahami ilmu bela diri aliran Quanzhen. Mendengar keterangan Wang Chuyi, ia teringat pertarungannya
 dengan si pendeta muda Yin Zhiping, yang kelihatannya menggunakan teknik yang sama seperti yang
 digunakan oleh Wanyan Kang. Ia merasa sudah melakukan kesalahan, dan ia _kowtow_ di hadapan Wang Chuyi.
 "Aku tidak tahu," katanya dengan rendah hati. "kalau Wanyan Kang adalah murid dari Qiu Dao Zhang. Aku sudah
 keterlaluan, tolong jangan menyalahkan dia..."
+
+[^jin-ying-fei-xiang]: Jin Ying Fei Xiang (金鹰飞翔), atau Elang Emas Terbang. Ilmu meringankan tubuh khas Quanzhen.
 
 Tawa Wang Chuyi meledak. "Semangatmu untuk berbuat baik dan benar sungguh menyentuh aku. Masa aku menyalahkan
 kamu? Peraturan perguruan sangat ketat. Kalau seorang murid melakukan kesalahan, dia pasti akan mendapat
@@ -81,8 +111,10 @@ dan mencari Mu Yi," usulnya. "Kelihatannya putrinya agak keras kepala, ini bisa 
 Mereka pergi ke Penginapan Keberuntungan, di sebelah Barat kota. Ketika mereka tiba di
 pintu gerbang penginapan, sepuluh pelayan berseragam sudah menunggu. Mereka menghampiri
 kedua tamu itu dan menyapa, "Majikan kami dengan rendah hati mengundang Dao Zhang dan
-Guo Gong Zhi untuk menghadiri perjamuan di kediamannya yang sederhana." Undangan berwarna
+Guo Gongzi[^gongzi] untuk menghadiri perjamuan di kediamannya yang sederhana." Undangan berwarna
 merah disertai dengan tanda tangan bernada hormat, "Yang mengundang, Wanbei Wanyan Kang".
+
+[^gongzi]: Gong Zi (公子), setara dengan sebutan 'Tuan Muda'.
 
 "Baiklah kalau begitu," kata Wang Chuyi sambil mengangguk. "Kami akan hadir."
 
@@ -928,15 +960,14 @@ Mendengar ucapannya Guo Jing merasa cemas. Huang Rong tersenyum kecil dan berkat
 mau menyanyi sekarang, dengar baik-baik." Huang rong memalingkan kepalanya dengan lembut,
 ia bersandar ke ujung perahu dan mulai menyanyi dengan suara jernih.
 
-<div class="w3-panel w3-card-4 w3-blue">
-    <h4>Catatan</h4>
+<div class="w3-container w3-card-4">
+    <h4>Lagu</h4>
     <p>
-        Syair berikut saya terjemahkan hampir secara literal dari terjemahan bahasa Inggris,
-        yang tentu saja tidak mewakili keindahan syair aslinya. Pengetahuan saya mengenai sastra
-        Tionghoa, apalagi yang kuno, sungguh-sungguh mendekati nol. Saya menerjemahkannya hanya untuk
-        melengkapi cerita ini.
+        Syair berikut diterjemahkan apa adanya sesuai dengan novel karya Jin Yong.
     </p>
-    <blockquote><pre><em>
+    <div class="w3-panel w3-leftbar w3-border-blue">
+        <p class="w3-xlarge w3-serif">
+            <pre><em>
     "Angsa liar menembus tirai dingin membeku.
     Lembutnya salju membungkus rembulan pucat di bulan pertama.
     Air sungai mengalir bagaikan sisir di antara helai rambut pengantin.
@@ -946,7 +977,9 @@ ia bersandar ke ujung perahu dan mulai menyanyi dengan suara jernih.
     dibungkus lembar demi lembar sutra bersulam naga.
     Bersama angin Timur, senyum menawan, 
     puluhan ribu bunga tertunduk malu berharap untuk ditinggalkan."
-    </em></pre></blockquote>
+            </em></pre>
+        </p>
+    </div>
 </div>
 
 Guo Jing mendengarkan setiap patah kata dengan teliti. Meskipun ia tidak mengerti artinya,
