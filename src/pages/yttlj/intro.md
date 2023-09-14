@@ -777,7 +777,7 @@ sungguh meninggalkan tanda seperti janjinya..."
 Yin Kexi terlambat bergerak. Sebelum sadar, punggungnya tertotok oleh jari Junbao. Da zhu Xue adalah titik temu tiga
 jalan darah. Ia mendadak merasa mati rasa dan jatuh ke tanah.
 
-Kecuali Xiaociang Zi, semua orang bersorak! Mereka memuji, "Bagus sekali! Lu Si Shui Shou!"
+Kecuali Xiaoxiang Zi, semua orang bersorak! Mereka memuji, "Bagus sekali! Lu Si Shui Shou!"
 
 "Permisi!: kata Junbao sambil menggeledah tubuh lawannya. Sayangnya ia tidak menemukan buku yang dicari. Ia berpaling
 kepada Xiaoxiang Zi.

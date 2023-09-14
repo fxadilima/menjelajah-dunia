@@ -10,13 +10,13 @@ description: Pengantar Untuk Menjelajah Dunia
 
 <div class="w3-bar w3-white">
 <div class="w3-bar-item">
-<a href="./ringkasan-peristiwa" class="w3-btn w3-black w3-hover-red w3-round-large">Ringkasan Golok Pembunuh Naga</a>
+<a href="/ringkasan-peristiwa" class="w3-btn w3-black w3-hover-red w3-round-large">Ringkasan Golok Pembunuh Naga</a>
 </div>
 <div class="w3-bar-item">
-<a href="./bab1" class="w3-btn w3-black w3-hover-red w3-round-large">Bab 1</a>
+<a href="/bab1" class="w3-btn w3-black w3-hover-red w3-round-large">Bab 1</a>
 </div>
 <div class="w3-bar-item">
-<a href="./inspirasi" class="w3-btn w3-black w3-hover-red w3-round-large">Sumber Inspirasi Cerita</a>
+<a href="/inspirasi" class="w3-btn w3-black w3-hover-red w3-round-large">Sumber Inspirasi Cerita</a>
 </div>
 </div>
 
