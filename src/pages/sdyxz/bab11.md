@@ -1,11 +1,37 @@
-# Bab 11
-## Qiu Chuji Mengaku Kalah
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 10
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 10
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 11](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692824/sdyxz/originals/loch-11_pmioc0.jpg) | _Pada hari yang ke delapan, Guo Jing berhasil mencapai puncak. Ia mengulurkan tangan dan mengangkat Huang Rong ke atas. Mereka melompat-lompat kegirangan, larut dalam kemenangan. Lalu sambil bergandengan tangan, mereka menuruni air terjun sekali lagi._ |
+# Bab 11
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692824/sdyxz/originals/loch-11_pmioc0.jpg" alt="Gambar Ilustrasi Bab 11" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Pada hari yang ke delapan, Guo Jing berhasil mencapai puncak. Ia mengulurkan tangan dan mengangkat 
+                Huang Rong ke atas. Mereka melompat-lompat kegirangan, larut dalam kemenangan. Lalu sambil bergandengan 
+                tangan, mereka menuruni air terjun sekali lagi.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab10" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 10</a>
+                <a href="/sdyxz/bab12" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 12</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Qiu Chuji Mengaku Kalah
+
 
 Melihat adik seperguruannya dalam bahaya besar, Sha Tongtian melompat untuk bergegas 
 melepaskan genggaman Mei Chaofeng. Segera setelah kedua tangan mereka bertemu, mereka merasa

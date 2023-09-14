@@ -1,12 +1,37 @@
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 14
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 14
+---
+
 # Bab 14
-## Majikan Pulau Bunga Persik
 
-
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 14](https://res.cloudinary.com/drzjshskk/image/upload/v1676692895/sdyxz/originals/loch-14_fkrvnr.jpg) | _Kekuatan Delapan Belas Jurus Penakluk Naga tidaklah ringan. Namun Mei Chaofeng selalu tahu sebelumnya kemana arah serangannya dan mampu menghindar dengan cepat. Beberapa langkah kemudian orang aneh itu menjentikkan tiga kerikil secara berurutan. Mei Chaofeng mengikuti suara itu dan meluncurkan tiga serangan mematikan satu demi satu._ |
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676692895/sdyxz/originals/loch-14_fkrvnr.jpg" alt="Gambar Ilustrasi Bab 14" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Saat perompak Danau Tai dan perahu pejabat Jin mendekat, terdengar suara teriakan, makian, benturan 
+                senjata, dan suara cipratan air, saat tubuh-tubuh manusia jatuh ke air. Setelah beberapa saat, 
+                perahu pejabat terbakar, apinya menerangi langit yang gelap dan memancarkan sinar merah menyala 
+                di atas danau.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab13" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 13</a>
+                <a href="/sdyxz/bab15" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 15</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Majikan Pulau Bunga Persik
 
 Yang dilihatnya adalah enam orang, lima pria dan satu wanita, memasuki aula. Mereka adalah Enam Orang Aneh dari Jiangnan.
 Mereka menjelajah ke utara dan selatan dan pada hari itu tiba di Danau Tai, di mana mereka bertemu dengan beberapa orang

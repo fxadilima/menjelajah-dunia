@@ -261,7 +261,7 @@ ia bergegas menuju pintu keluar. Ouyang Ke berteriak keras, "Aku tertipu!" Ia ha
 berseru untuk memperingatkan, tapi tidak bisa mengejar. Sha Tongtian, Peng Lianhu dan
 yang lain melihat Huang Rong menipu Ouyang Ke dengan cerdik, dan tidak bisa menahan tawa.
 
-<div class="w3-panel w3-card-4">
+<div class="w3-panel w3-card">
     <h4>Catatan</h4>
     <p>
     Peristilahan dalam sebuah jurus yang diperagakan Huang Rong ini terasa agak aneh, dan
@@ -289,7 +289,7 @@ yang lain melihat Huang Rong menipu Ouyang Ke dengan cerdik, dan tidak bisa mena
     </p>
     <div class="w3-container w3-center">
         <a href="https://youtube.com/clip/Ugkx_qcXP96oAORlP9RfPfzf5LAMTjc4AHQh" target="_blank">
-            <img src="images/rompi-berduri.jpg" alt="Rompi Berduri Huang Rong"/>
+            <img src="/images/rompi-berduri.jpg" alt="Rompi Berduri Huang Rong"/>
         </a>
         <div class="w3-container w3-center">
         <p><em>Raut wajahnya berubah saat ia teringat, berteriak, "Rompi Kulit Landak... Rompi Kulit Landak!"</em></p>

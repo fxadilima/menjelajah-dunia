@@ -17,8 +17,10 @@ const { frontmatter } = Astro.props;
     </head>
     <body>
         <main class="w3-main">
-            <div class="w3-content" id="novel">
-                <slot />
+            <div class="w3-content">
+                <div class="w3-container">
+                    <slot />
+                </div>
             </div>
         </main>
     </body>

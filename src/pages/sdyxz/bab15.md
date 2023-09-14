@@ -1,11 +1,37 @@
-# Bab 15
-## Sang Naga Mengibaskan Ekor
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 15
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 15
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 15](https://res.cloudinary.com/drzjshskk/image/upload/v1676692925/sdyxz/originals/loch-15_bqilvq.jpg) | _Guo Jing melihat di depannya ada dua patung tanah liat, yang satu mirip laki-laki, yang lain perempuan. Patung-patung ini dibuat di kota Wuxi yang terkenal. Mereka bulat, gemuk dan sangat lucu. Di depan patung-patung itu ada mangkuk tanah liat kecil berisi kelopak bunga, daun, dan sebagainya._ |
+# Bab 15
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676692925/sdyxz/originals/loch-15_bqilvq.jpg" alt="Gambar Ilustrasi Bab 15" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Guo Jing melihat di depannya ada dua patung tanah liat, yang satu mirip laki-laki, yang lain 
+                perempuan. Patung-patung ini dibuat di kota Wuxi yang terkenal. Mereka bulat, gemuk dan sangat 
+                lucu. Di depan patung-patung itu ada mangkuk tanah liat kecil berisi kelopak bunga, daun, dan 
+                sebagainya.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab14" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 14</a>
+                <a href="/sdyxz/bab16" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 16</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Sang Naga Mengibaskan Ekor
 
 Sesaat kemudian Lu Guanying teringat tamu mereka yang lain. Ia membantu Wanyan Kang berdiri tapi ternyata Wanyan Kang 
 tidak bisa bergerak karena jalan darahnya masih tertotok. Hanya matanya yang bergerak.

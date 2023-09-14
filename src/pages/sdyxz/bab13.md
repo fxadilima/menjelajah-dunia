@@ -1,11 +1,37 @@
-# Bab 13
-## Orang Lumpuh Di Lima Danau
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 13
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 13
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 13](https://res.cloudinary.com/drzjshskk/image/upload/v1676692862/sdyxz/originals/loch-13_q1tnfz.jpg) | _Saat perompak Danau Tai dan perahu pejabat Jin mendekat, terdengar suara teriakan, makian, benturan senjata, dan suara cipratan air, saat tubuh-tubuh manusia jatuh ke air. Setelah beberapa saat, perahu pejabat terbakar, apinya menerangi langit yang gelap dan memancarkan sinar merah menyala di atas danau._ |
+# Bab 13
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676692862/sdyxz/originals/loch-13_q1tnfz.jpg" alt="Gambar Ilustrasi Bab 13" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Saat perompak Danau Tai dan perahu pejabat Jin mendekat, terdengar suara teriakan, makian, benturan 
+                senjata, dan suara cipratan air, saat tubuh-tubuh manusia jatuh ke air. Setelah beberapa saat, 
+                perahu pejabat terbakar, apinya menerangi langit yang gelap dan memancarkan sinar merah menyala 
+                di atas danau.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab12" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 12</a>
+                <a href="/sdyxz/bab14" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 14</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Orang Lumpuh Di Lima Danau
 
 Ketika Huang Rong pulang ke penginapan malam itu, ia berpikir bahwa ia baru saja berbuat baik, dan ia merasa
 teramat sangat senang. Seiring dengan hal itu, ia tertidur pulas dan nyaman, lalu menceritakan semuanya kepada

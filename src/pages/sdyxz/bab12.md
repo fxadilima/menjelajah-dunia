@@ -1,11 +1,37 @@
-# Bab 12
-## Kebanggaan Sang Naga
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 10
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 10
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 12](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg) | Tiba-tiba Wanyan Kang mengerti. "Dia sedang mengatakan bahwa kami berdua sama sekali tidak ada hubungan darah!" Ia menggenggam tangan kanan gadis itu dan tersenyum. Muka Mu Nianci memerah, ia meronta sedikit, tetapi tidak melepaskan genggamannya, membiarkan pemuda itu menggenggam tangannya. Kepalanya tertunduk lebih dalam. |
+# Bab 12
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg" alt="Gambar Ilustrasi Bab 12" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Tiba-tiba Wanyan Kang mengerti. "Dia sedang mengatakan bahwa kami berdua sama sekali tidak ada hubungan 
+                darah!" Ia menggenggam tangan kanan gadis itu dan tersenyum. Muka Mu Nianci memerah, ia meronta sedikit, 
+                tetapi tidak melepaskan genggamannya, membiarkan pemuda itu menggenggam tangannya. Kepalanya tertunduk 
+                lebih dalam.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab11" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 11</a>
+                <a href="/sdyxz/bab13" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 13</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Kebanggaan Sang Naga
 
 Huang Rong siap untuk memotong ayam itu ketika mereka mendengar suara dari arah belakang,
 "Porsi ketiga. Aku mau pantatnya!"

@@ -1,11 +1,36 @@
-# Bab 16
-## Kitab Sembilan Bulan
+---
+layout: ../../layouts/Books.astro
+title: Memanah Rajawali - Bab 16
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 16
+---
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 16](https://res.cloudinary.com/drzjshskk/image/upload/v1676692966/sdyxz/originals/loch-16_e8xajn.jpg) | _Tutup peti mati terbuka, ternyata belum dipaku. Tidak ada jenazah di dalamnya, hanya seorang gadis cantik dengan sepasang mata lebar. Itu tidak lain adalah Mu Nianci. Yang Kang terkejut dan dengan cepat ia mengulurkan tangannya untuk membantunya bangkit._ |
+# Bab 16
+
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676692966/sdyxz/originals/loch-16_e8xajn.jpg" alt="Gambar Ilustrasi Bab 16" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Tutup peti mati terbuka, ternyata belum dipaku. Tidak ada jenazah di dalamnya, hanya seorang gadis 
+                cantik dengan sepasang mata lebar. Itu tidak lain adalah Mu Nianci. Yang Kang terkejut dan dengan 
+                cepat ia mengulurkan tangannya untuk membantunya bangkit.
+            </p>
+            <div class="w3-bar-block w3-border">
+                <a href="/sdyxz" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Daftar Buku</a>
+                <a href="/sdyxz/bab15" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 15</a>
+                <a href="/sdyxz/bab17" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-right"></i> Bab 17</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ***
+
+## Kitab Sembilan Bulan
 
 Guo Jing dan Huang Rong meninggalkan rumah kediaman keluarga Cheng dan sangat lelah karena mereka tidak tidur malam itu. 
 Mereka tadinya ingin kembali ke penginapan untuk beristirahat, namun tiba-tiba terdengar suara derap kaki kuda yang 
@@ -22,7 +47,7 @@ merangkapkan tangannya untuk berpamitan dan menuju ke timur bersama dengan semua
 selir-selirnya.
 
 Yang Kang tetap tinggal. Ia berdiri dengan tatapan kosong untuk beberapa saat, kemudian mendesah panjang dan menaiki 
-kudanya. "[Xian Di](referensi-karakter.md#xian-di "Adikku yang baik"), aku di sini," panggil Guo Jing. Yang Kang 
+kudanya. "[Xian Di](referensi-karakter#xian-di "Adikku yang baik"), aku di sini," panggil Guo Jing. Yang Kang 
 mendengar suaranya dan terkejut tetapi tetap menghentikan kudanya. "Ge, kau juga di sini?" balasnya.
 
 "Aku ketemu Nona Huang dan kami bertarung melawan Ouyang Ke, itulah sebabnya kita jadi tertunda," jelas Guo Jing. 
@@ -133,8 +158,8 @@ Guo Jing melihat tenaga yang datang sangat dahsyat dan ia tahu penyerangnya buka
 mengirimkan telapak tangannya menggunakan jurus Sang Naga Mengibaskan Ekor. Telapak tangannya mengenai bahu pria itu, 
 menghancurkan tulang belikatnya menjadi berkeping-keping dan membuat orang itu melayang mundur beberapa kaki. Orang 
 itu menjerit kesakitan. Tiba-tiba Guo Jing teringat, "Ini salah satu dari 
-[Empat Iblis dari Sungai Kuning](referensi-karakter.md#huanghe-si-gui "Huang He Si Gui (黄河四鬼), julukan bagi empat murid Sha Tongtian."), 
-[Kapak Maut](referensi-karakter.md#sang-men-fu "Sang Men Fu (喪門斧)") Qian Qingjian."
+[Empat Iblis dari Sungai Kuning](referensi-karakter#huanghe-si-gui "Huang He Si Gui (黄河四鬼), julukan bagi empat murid Sha Tongtian."), 
+[Kapak Maut](referensi-karakter#sang-men-fu "Sang Men Fu (喪門斧)") Qian Qingjian."
 
 Guo Jing tahu bahwa kungfunya telah meningkat pesat beberapa bulan terakhir ini dan tentu saja ia berada di 
 tingkat yang sama sekali berbeda dibandingkan ketika ia melawan Empat Iblis dari Sungai Kuning di Mongolia 
@@ -143,8 +168,8 @@ Sementara ia masih takjub memikirkan tenaga pukulannya sendiri, beberapa benda l
 Kali ini pedang dan tombak.
 
 Guo Jing menduga mereka pasti 
-[Golok Pencabut Nyawa](referensi-karakter.md#duan-hun-dao "Duan Hun Dao (断魂刀)") Shen Qinggang dan 
-[Tombak Pengejar Nyawa](referensi-karakter.md#zhui-ming-qiang "Zhui Ming Qiang (追命枪)") Wu Qinglie. Dengan tangan 
+[Golok Pencabut Nyawa](referensi-karakter#duan-hun-dao "Duan Hun Dao (断魂刀)") Shen Qinggang dan 
+[Tombak Pengejar Nyawa](referensi-karakter#zhui-ming-qiang "Zhui Ming Qiang (追命枪)") Wu Qinglie. Dengan tangan 
 kanan membentuk kait, ia menangkap tombak di dekat kepalanya dan menariknya dengan keras. Wu Qinglie mencoba melawan, 
 tetapi ia ditarik dan jatuh telungkup di depan Guo Jing. Tepat pada saat itu ketika Guo Jing melangkah mundur untuk 
 menghindari bacokan, golok Shen Qinggang menebas tengkorak saudara laki-lakinya sendiri. Kaki Guo Jing terangkat dan 
@@ -153,7 +178,7 @@ terbang dari tangannya. Nyawa Wu Qinglie terselamatkan. Guo Jing kemudian mengan
 arah kakak seperguruannya. Kedua bersaudara itu saling bertabrakan dan keduanya langsung pingsan.
 
 Dari Keempat Iblis Sungai Kuning, hanya tiga yang tersisa, karena 
-[Cambuk Perenggut Nyawa](referensi-karakter.md#duo-po-bian "Duo Po Bian (夺魄鞭)") Ma Qingxiong 
+[Cambuk Perenggut Nyawa](referensi-karakter#duo-po-bian "Duo Po Bian (夺魄鞭)") Ma Qingxiong 
 dibunuh oleh Lu Guanying ketika mencoba menyusup ke geng bajak Danau Tai. Ketiga orang ini adalah para pejuang elit 
 tentara Jin yang mengejar Tolui dan rekan-rekannya. Prajurit Jin lainnya tidak menyadari bahwa pemimpin mereka 
 telah jatuh karena kegelapan malam. Mereka masih melawan Tolui, Jebe dan Borchu dalam adu panah.
@@ -219,7 +244,7 @@ aliansi. Pangeran Keenam sendiri secara pribadi memimpin pasukan untuk menangkap
 "Betul!" jawab Tolui. "Dia memakai helm emas. Aku melihatnya dengan jelas, dan bahkan menembakkan tiga anak panah ke 
 arahnya. Sayangnya diblokir perisai pengawalnya."
 
-Guo Jing sangat gembira, "Rong'er, [Kang Di](referensi-karakter.md#didi "Adik Kang (Didi 弟弟 adalah adik laki-laki)")"! Wanyan Honglie ada di sini. Ayo cepat kita cari dia!" Huang Rong dengan cepat setuju, tetapi Yang Kang tidak terlihat. 
+Guo Jing sangat gembira, "Rong'er, [Kang Di](referensi-karakter#didi "Adik Kang (Didi 弟弟 adalah adik laki-laki)")"! Wanyan Honglie ada di sini. Ayo cepat kita cari dia!" Huang Rong dengan cepat setuju, tetapi Yang Kang tidak terlihat. 
 Guo Jing tidak sabar, ia berteriak, "Rong'er, kau pergi ke timur, aku akan mencari ke barat." Kedua orang itu menggunakan 
 ilmu meringankan tubuh mereka dan berlari sangat cepat ke arah yang berlawanan.
 
@@ -287,7 +312,7 @@ akan tewas. Itu saat kritis dan Yang Kang tidak punya banyak waktu untuk berpiki
 pertempuran. Saat itu Guo Jing sedang melemparkan tubuh para prajurit Jin ke udara. Kuda Wanyan Honglie ketakutan, 
 jadi ia sibuk memegang kendali. Yang Kang mencengkeramnya dari belakang dan menariknya ke tempat aman.
 
-"[Fu Wang](referensi-karakter.md#fu-wang "Fu Wang (父王) = Ayah. Karakter Wang (王) ditambahkan di belakang panggilan itu untuk menandai bahwa ayahnya adalah seorang Raja. Sekaligus tanda penghormatan sebagai bawahannya."), 
+"[Fu Wang](referensi-karakter#fu-wang "Fu Wang (父王) = Ayah. Karakter Wang (王) ditambahkan di belakang panggilan itu untuk menandai bahwa ayahnya adalah seorang Raja. Sekaligus tanda penghormatan sebagai bawahannya."), 
 ini aku, Kang'er. Jangan bersuara!" bisik Yang Kang, mendesak. Guo Jing masih bertarung dan perhatian Huang Rong 
 tertuju pada elang. Malam itu gelap, jadi tidak ada yang melihatnya dengan Wanyan Honglie bergerak menuju halaman 
 belakang kuil.
@@ -497,12 +522,12 @@ dan keluar dari situ.
 
 Huang Rong memejamkan mata sambil memalingkan mukanya ke luar. "Aku tidak mau lihat!" katanya.
 
-"Tapi ini Mu [Mei Mei](referensi-karakter.md#mei-mei "Adik perempuan (妹妹)")," desak Guo Jing.
+"Tapi ini Mu [Mei Mei](referensi-karakter#mei-mei "Adik perempuan (妹妹)")," desak Guo Jing.
 
 Dengan mata kirinya masih tertutup, Huang Rong mengintip dengan mata kanannya. Ia melihat Yang Kang memeluk seorang wanita yang mirip Mu Nianci. Ia merasa lega dan dengan malu-malu memasuki ruangan lagi. Siapa wanita itu kalau bukan Mu Nianci?
 
 Huang Rong melihat wajah Mu Nianci tampak kuyu dan dua titik air mata mengalir di pipinya. Ia tidak bisa bergerak. 
-Huang Rong membuka totokannya dan bertanya, "[Jiejie](referensi-karakter.md#jie-jie "Kakak perempuan (姐姐)"), kenapa kau 
+Huang Rong membuka totokannya dan bertanya, "[Jiejie](referensi-karakter#jie-jie "Kakak perempuan (姐姐)"), kenapa kau 
 ada di sini?"
 
 Mu Nianci sudah cukup lama tertotok, seluruh tubuhnya terasa kaku dan napasnya tidak teratur. Huang Rong membantu 
@@ -605,7 +630,7 @@ belati milik Yang Dage kepada Mu Jiejie," kata Huang Rong.
 "Tentu saja," Guo Jing menurut. Ia mengeluarkan belati dari sakunya. Itu belati yang diambil oleh Zhu Cong dari 
 Mei Chaofeng. Belati itu masih terbungkus selembar kulit tipis. Kulit itu penuh dengan karakter yang ditato dengan 
 jarum. Guo Jing tidak menyadari bahwa karakter itu sebenarnya adalah bagian kedua dari 
-[Jiu Yin Zhen Jing](referensi-karakter.md#jiu-yin-zhen-jing "Kitab Sembilan Bulan"). Ia dengan santai membuka 
+[Jiu Yin Zhen Jing](referensi-karakter#jiu-yin-zhen-jing "Kitab Sembilan Bulan"). Ia dengan santai membuka 
 gulungan kulit itu dan memberikan belati itu kepada Mu Nianci.
 
 Huang Rong juga mengeluarkan belati dari sakunya. Ia dengan lembut berkata, "Belati Jing Gege ada di tanganku. 
@@ -787,7 +812,7 @@ orang memainkan seruling di sekelilingnya. Suara seruling ini benar-benar membua
 Setelah berlarian seperti itu beberapa saat, kepala Guo Jing terasa berputar, jadi ia memutuskan untuk berhenti 
 berlari dan langsung berjalan menuju benda besar di tengah danau bunga putih itu. Ternyata itu adalah kuburan. 
 Ada sebuah batu nisan di depan makam dengan tulisan, 
-[Makam harum Nyonya Pemilik Pulau Bunga Persik Feng Heng](referensi-karakter.md#makam-aheng "Tao Hua Dao Nu Zhu Feng Shi Heng Xiang Zhi Zhong (桃花岛女主冯氏衡香之冢)"), dalam sebelas karakter besar.
+[Makam harum Nyonya Pemilik Pulau Bunga Persik Feng Heng](referensi-karakter#makam-aheng "Tao Hua Dao Nu Zhu Feng Shi Heng Xiang Zhi Zhong (桃花岛女主冯氏衡香之冢)"), dalam sebelas karakter besar.
 
 Ini pasti makam ibu Rong'er, pikir Guo Jing. "Rong'er kehilangan dia sejak masih kecil, itu sangat menyedihkan." 
 Ia berlutut di depan makam dan bersujud empat kali untuk memberikan penghormatan.
@@ -835,7 +860,7 @@ Rambutnya panjang hampir menyentuh tanah dan alis, kumis dan jenggotnya juga pan
 Tangan kirinya di dadanya, tangan kanannya di punggungnya.
 
 Guo Jing tahu bahwa itu adalah salah satu posisi untuk melatih tenaga dalam yang diajarkan oleh 
-[Dan Yang Zi](referensi-karakter.md#dan-yang-zi "Julukan Pendeta Ma Yu"), Ma Yu, di atas bukit tandus di 
+[Dan Yang Zi](referensi-karakter#dan-yang-zi "Julukan Pendeta Ma Yu"), Ma Yu, di atas bukit tandus di 
 padang rumput Mongolia. Itu adalah teknik untuk menutup hati dan pikiran seseorang. Kalau orang menguasainya 
 dengan sempurna, bahkan jika guntur bergemuruh dan kilatan cahaya, atau air menyembur dan menciptakan tanah longsor, 
 semua itu tidak akan mengganggunya sama sekali. Pria ini sepertinya memiliki ilmu tenaga dalam tingkat tinggi ini, 
@@ -856,7 +881,7 @@ sehingga ia tidak bisa membantu pria ini mengatasi suara seruling, tetapi karena
 berambut gondrong itu bisa menenangkan diri. Ia menutup matanya dan sepertinya ia mulai terkendali.
 
 Dalam hati Guo Jing senang. Tiba-tiba ada yang memakinya. 
-"[Xiao Chusheng](referensi-karakter.md#xiao-chusheng "Bangsat kecil")! Kau mengacaukan urusanku!" Seruling itu 
+"[Xiao Chusheng](referensi-karakter#xiao-chusheng "Bangsat kecil")! Kau mengacaukan urusanku!" Seruling itu 
 tiba-tiba berhenti. Guo Jing menoleh dan tidak melihat siapa pun, tapi suara itu terdengar seperti Huang Yaoshi. 
 Ia jadi cemas dan menyesali perbuatannya. "Aku tidak tahu orang tua berambut panjang ini baik atau jahat, dan 
 aku membantunya tanpa pikir panjang. Aku jelas membuat ayah Rong'er lebih marah. Kalau orang tua ini ternyata 
@@ -875,7 +900,7 @@ Tiba-tiba orang tua itu membuka matanya. Sinar matanya cerah dan berbinar-binar.
 "Di antara Tujuh Pendekar Quanzhen itu, siapa yang jadi gurumu?"
 
 Guo Jing melihat wajahnya yang ramah, ia menjadi tenang. Ia membungkuk dan berkata, 
-"[Dizi](referensi-karakter.md#dizi "Dizi (弟子) = Murid. Dalam dialek Hokkian biasa ditulis Teecu.") Guo Jing, 
+"[Dizi](referensi-karakter#dizi "Dizi (弟子) = Murid. Dalam dialek Hokkian biasa ditulis Teecu.") Guo Jing, 
 memberi salam kepada qianbei! Dizi murid Tujuh Pendekar dari Jiangnan!"
 
 Orang tua itu tampak terkejut. "Tujuh Pendekar dari Jiangnan? Itu Ke Zhen'E dan lain-lainnya. Mana mungkin mereka 
@@ -921,7 +946,7 @@ mengulang lagi dari bawah ke atas. Ia mengulurkan telapak tangan kanannya dan be
 Aku ingin menguji kungfumu."
 
 Guo Jing menurut, ia mengulurkan telapak tangan kanannya dan mendorong. Pria tua itu berkata, 
-"[Qi](referensi-karakter.md#qi "tenaga dalam") di [dan tian](referensi-karakter.md#dan-dian "daerah perut bagian bawah") 
+"[Qi](referensi-karakter#qi "tenaga dalam") di [dan tian](referensi-karakter#dan-dian "daerah perut bagian bawah") 
 dan dorong keras-keras!" Guo Jing mengerahkan tenaganya. Pria tua itu menarik telapak tangannya sedikit lalu mendorong 
 keras sambil berteriak, "Awas!"
 
@@ -931,7 +956,7 @@ tangan Guo Jing dengan empat jari. Kekuatan jari-jari ini cukup untuk membuat Gu
 delapan langkah hingga punggungnya menabrak pohon. Baru saat itulah Guo Jing berhasil berdiri dengan mantap.
 
 "Kungfunya tidak jelek, tapi juga tidak ada yang luar biasa," gumam orang tua itu. "Tapi bagaimana dia bisa menahan 
-[Irama Gelombang Laut Biru](referensi-karakter.md#bi-hai-chao-sheng-qu "Bi Hai Chao Sheng Qu") dari Si Sesat Tua Huang?"
+[Irama Gelombang Laut Biru](referensi-karakter#bi-hai-chao-sheng-qu "Bi Hai Chao Sheng Qu") dari Si Sesat Tua Huang?"
 
 Guo Jing merasa dadanya sesak, ia heran, "Kungfu orang ini kira-kira setingkat dengan Shifu dan Huang Yaoshi. 
 Bagaimana mungkin ada pendekar sekaliber dia di Pulau Bunga Persik? Mungkinkah dia Racun Barat atau Kaisar Selatan?" 
@@ -1085,9 +1110,9 @@ Guo Jing baru sadar ia membuat kesalahan, dan buru-buru berkata, "Adikmu barusan
 pedulikan aku, Kakak!"
 
 Zhou Botong tersenyum. "Caramu memanggilku tidak boleh salah. Kalau kau harus memanggilku dengan nama apa pun, lebih 
-baik kau memanggilku [Laopo](referensi-karakter.md#laopo "Istriku (老婆)"), 
-atau [Mama](referensi-karakter.md#mama "Mama atau Ibu (妈妈)"), 
-atau [Nu'er](referensi-karakter.md#nu-er "Anak perempuan (女儿)."). Enggak, jangan sampai salah!," ujarnya. 
+baik kau memanggilku [Laopo](referensi-karakter#laopo "Istriku (老婆)"), 
+atau [Mama](referensi-karakter#mama "Mama atau Ibu (妈妈)"), 
+atau [Nu'er](referensi-karakter#nu-er "Anak perempuan (女儿)."). Enggak, jangan sampai salah!," ujarnya. 
 Guo Jing setuju.
 
 Zhou Botong menyandarkan kepalanya dan bertanya, "Coba tebak bagaimana aku bisa sampai di sini?"
@@ -1108,7 +1133,7 @@ kelima orang itu bertarung di Hua Shan?"
 
 "Itu karena sebuah kitab..." kata Zhou Botong.
 
-"[Jiu Yin Zhen Jing](referensi-karakter.md#jiu-yin-zhen-jing "Kitab Sembilan Bulan")!" seru Guo Jing.
+"[Jiu Yin Zhen Jing](referensi-karakter#jiu-yin-zhen-jing "Kitab Sembilan Bulan")!" seru Guo Jing.
 
 "Betul!" kata Zhou Botong. "Adikku, kau masih muda, tapi pengetahuanmu tentang urusan dunia persilatan tidak dangkal!
 Kau tahu asal-usul Kitab Sembilan Bulan itu?"
@@ -1127,14 +1152,14 @@ Guo Jing menganggukkan kepalanya. "Betul," katanya. "Lalu kenapa Dage tidak menc
 
 "Kaisar Hui Zong di tahun Zheng He ingin mengumpulkan semua kitab dan buku dari aliran Tao dari seluruh dunia. Dia ingin
 mengedarkan buku-buku itu, yang semuanya terdiri dari 5481 bab. Mereka menyebutnya 
-[Panduan Agama Tao tentang Kehidupan Abadi](referensi-karakter.md#wan-shou-dao-zang "Wan Shou Dao Zang (万寿道藏)").
+[Panduan Agama Tao tentang Kehidupan Abadi](referensi-karakter#wan-shou-dao-zang "Wan Shou Dao Zang (万寿道藏)").
 Kaisar menugaskan seseorang untuk memimpin pelaksanaan misi itu, dia disebut Huang Shang[^huang-shang]..."
 
 "Dia juga dari keluarga Huang?" tanya Guo Jing.
 
 "Bah! Apa sih istimewanya keluarga Huang?" Zhou Botong meludah. "Orang ini tidak ada kaitannya dengan Si Sesat Tua
 Huang Yaoshi, jangan salah kaprah! Banyak orang bermarga Huang di dunia ini, 
-Anjing [Kuning](referensi-karakter.md#huang "Huang (黄) = Kuning")[^huang-gou] 
+Anjing [Kuning](referensi-karakter#huang "Huang (黄) = Kuning")[^huang-gou] 
 atau Kucing Kuning[^huang-mao] juga bermarga Huang."
 
 Dalam hati Guo Jing merasa seekor anjing kuning atau kucing kuning juga belum tentu punya nama yang mengandung
@@ -1163,18 +1188,18 @@ suka berdebat, jadi ia menyimpan pikirannya dalam hati.
 
 "Huang Shang sudah menguasai kungfu, tapi dia masih memegang jabatan di pemerintahan," lanjut Zhou Botong. "Ada saatnya 
 tiba-tiba muncul gerakan keagamaan di kerajaan, mereka menyebut diri mereka 
-[Sekte Ming](referensi-karakter.md#ming-jiao "Ming Jiao (明教). Ajaran ini adalah cikal-bakal dari Perguruan yang menjadi pilar organisasi yang diketuai oleh Zhang Wuji dalam buku ketiga trilogi ini."). 
+[Sekte Ming](referensi-karakter#ming-jiao "Ming Jiao (明教). Ajaran ini adalah cikal-bakal dari Perguruan yang menjadi pilar organisasi yang diketuai oleh Zhang Wuji dalam buku ketiga trilogi ini."). 
 Dikatakan bahwa gerakan ini berasal dari Asia Tengah, sebuah tempat bernama Persia. Para pengikut Sekte Ming ini, 
-pertama – tidak menyembah [Maha Guru Lao](referensi-karakter.md#taishang-laojun "Tai Shang Lao Jun, klik untuk membaca uraian ini."), 
+pertama – tidak menyembah [Maha Guru Lao](referensi-karakter#taishang-laojun "Tai Shang Lao Jun, klik untuk membaca uraian ini."), 
 kedua – tidak menyembah roh leluhur, ketiga – tidak menyembah Buddha. Mereka hanya menyembah setan asing tua. Mereka 
 tidak makan daging atau minum arak. Mereka vegetarian. Kaisar Hui Zong hanya percaya pada ajaran Tao, jadi segera 
 setelah dia tahu tentang kultus setan[^mo-jiao] ini, dia mengeluarkan dekrit kekaisaran yang menugaskan Huang Shang 
 untuk memberantasnya. Tanpa diduga, ada banyak ahli kungfu di antara anggota sekte tersebut. Mereka tidak takut mati 
 dan melawan Huang Shang dan pasukannya, membuat mereka tak berdaya. Setelah beberapa pertempuran, Huang Shang dan 
 pasukannya menderita kekalahan besar. Huang Shang sangat marah. Dia keluar dan menantang para ahli kungfu Mo Jiao 
-untuk bertarung satu lawan satu. Dia secara pribadi membunuh beberapa [raja](referensi-karakter.md#fa-wang "Fa Wang") 
+untuk bertarung satu lawan satu. Dia secara pribadi membunuh beberapa [raja](referensi-karakter#fa-wang "Fa Wang") 
 dan beberapa utusan. Bagaimana dia bisa tahu bahwa orang yang dia bunuh adalah murid dari tokoh 
-[Wulin](referensi-karakter.md#wulin "Dunia Persilatan") yang terkenal? Beberapa orang dari mereka adalah paman guru, 
+[Wulin](referensi-karakter#wulin "Dunia Persilatan") yang terkenal? Beberapa orang dari mereka adalah paman guru, 
 bibi, saudara, atau keluarga dekat mereka. Tentu saja orang-orang itu sangat marah dan mereka berkumpul untuk 
 menghadapinya. Mereka memarahinya karena tidak menangani urusan sesuai dengan aturan main di dunia persilatan, yang 
 dijawab oleh Huang Shang, 'Aku adalah pejabat pemerintah dan bukan bagian dari dunia persilatan. Aku tahu apa soal 
@@ -1260,7 +1285,7 @@ yang kutanyakan sebelumnya adalah kematian. Ketika waktumu tiba, kau tidak bisa 
 Guo Jing diam-diam setuju. Zhou Botong melanjutkan, "Saudaraku dan tujuh muridnya, hari demi hari, mengabdikan diri 
 untuk mencapai kesempurnaan hidup. Tetapi coba kasih tahu aku, apa memang mungkin untuk mengolah tubuh ajaib yang 
 tidak akan tersentuh kematian? Itulah alasan aku tidak ingin mengikuti cara hidup 
-[hidung kerbau](referensi-karakter.md#niubi "Niu Bi (牛鼻), klik untuk membaca penjelasannya.")."
+[hidung kerbau](referensi-karakter#niubi "Niu Bi (牛鼻), klik untuk membaca penjelasannya.")."
 
 Guo Jing melamun. Zhou Botong melanjutkan, "Beberapa musuh Huang Shang berusia sekitar empat puluh atau lima puluh tahun, tambahkan empat puluh tahun lebih, bagaimana mungkin mereka tidak mati? Hahaha... Sebenarnya ia tidak perlu repot-repot 
 melatih ilmu silatnya dan mengembangkan teknik baru, yang harus dia lakukan hanyalah hidup lebih lama dari musuh-musuhnya. 
@@ -1373,7 +1398,7 @@ sedangkan mereka yang memasuki jalan Tao harus melakukannya dengan hati yang sed
 dengan baik. Ma Yu mewarisi keyakinan Tao dari kakak seperguruanku, tetapi kungfunya sebenarnya lebih rendah dari 
 Qiu Chuji dan Wang Chuyi."
 
-"[Wang Zhenren](referensi-karakter.md#zhen-ren "Pendeta Besar Wang") dari Quanzhen, bagaimana dia bisa menjadi seorang Pendeta Besar Tao, dan sekaligus ahli kungfu?" tanya Guo Jing.
+"[Wang Zhenren](referensi-karakter#zhen-ren "Pendeta Besar Wang") dari Quanzhen, bagaimana dia bisa menjadi seorang Pendeta Besar Tao, dan sekaligus ahli kungfu?" tanya Guo Jing.
 
 "Bakat alaminya sangat luar biasa. Dia mampu menguasai ilmu silat dengan cukup mudah, sementara aku harus berlatih 
 keras dan rajin." jawab Zhou Botong. "Tadi kita cerita sampai di mana? Kenapa kau mengalihkan perhatianku?"
@@ -1451,7 +1476,7 @@ Pendekar Quanzhen segera keluar dan melawan musuh dalam pertempuran. Mereka taku
 mereka. Akulah satu-satunya yang tersisa menjaga peti mati. Aku mendengar seseorang di luar berteriak, 'Cepat serahkan 
 Jiu Yin Zhen Jing, kalau tidak pelipismu akan terbakar habis.’ Saya melihat ke luar dan tahu-tahu perutku terasa dingin. 
 Aku melihat seorang laki-laki berdiri di dahan pohon dan tubuhnya bergoyang mengikuti gerakan dahan. Itu demonstrasi 
-[Qinggong](referensi-karakter.md#qing-gong "Qing Gong (轻功) = Ilmu meringankan tubuh.") yang luar biasa. Saat itu aku 
+[Qinggong](referensi-karakter#qing-gong "Qing Gong (轻功) = Ilmu meringankan tubuh.") yang luar biasa. Saat itu aku 
 berpikir, 'Qinggong itu jauh lebih bagus dari aku, kalau dia mau, aku ingin mengangkatnya jadi guruku.’ Tapi kemudian 
 aku berubah pikiran, 'Itu salah! Itu salah! Orang ini pasti datang untuk mencuri Jiu Yin Zhen Jing, bukan hanya aku 
 tidak boleh tunduk, malah aku harus melawannya.’ Aku tidak mengenalnya, tapi suka atau tidak, aku harus melawannya. 
@@ -1474,7 +1499,7 @@ Huang Daozhu dengan baik, tapi dia orang yang sombong, dan bukan tipe orang yang
 kondisi genting orang lain dan menjadi pencuri!"
 
 Dari balik semak-semak bunga tiba-tiba terdengar suara yang jernih dan lantang berseru, "Penilaian 
-[Xiao Chusheng](referensi-karakter.md#xiao-chusheng "Xiao Chu Sheng (小畜生) = Bangsat kecil") ini ternyata bagus!"
+[Xiao Chusheng](referensi-karakter#xiao-chusheng "Xiao Chu Sheng (小畜生) = Bangsat kecil") ini ternyata bagus!"
 
 Guo Jing melompat ke arah sumber suara itu, tapi gerakan orang itu terlalu cepat. Guo Jing bahkan tidak bisa melihat 
 bayangannya, hanya pohon-pohon yang masih bergoyang dan kelopak bunga berguguran ke tanah.
