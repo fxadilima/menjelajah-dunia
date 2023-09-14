@@ -180,3 +180,5 @@ lembah yang berhubungan dengan rumah Zhu Changling, yang sekarang hanya ditempat
 Dari situ pengalaman Zhang Wuji di dunia persilatan pun baru dimulai, sementara Zhu Changling sendiri malah tetap
 terjebak di tempatnya tanpa bisa diketahui nasibnya.
 
+***
+
