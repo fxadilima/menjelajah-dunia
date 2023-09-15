@@ -1,6 +1,10 @@
 ---
-const {frontmatter} = Astro.props;
 import Navigations from '../../components/Navigations.astro';
+import {getCollection, getEntry} from 'astro:content';
+
+const tutorialEntries = await getCollection('tutorials');
+const topik1 = await getEntry('newsletter', 'topik-1');
+const {Content, headings} = await topik1.render();
 ---
 
 <!DOCTYPE html>
@@ -8,20 +12,34 @@ import Navigations from '../../components/Navigations.astro';
     <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>{frontmatter.title}</title>
+        <title>Dokumentasi</title>
         <meta name="generator" content={Astro.generator} />
-		<meta name="author" content={frontmatter.author} />
-        <meta name="description" content="Astro description">
+        <meta name="description" content={topik1.data.description}>
 		<link rel="icon" type="image/png" href="/favicon.png" />
         <link href="/styles/w3.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
     </head>
     <body>
-        <Navigations />
-        <main class="w3-main">
-            <div class="w3-content">
+        <Navigations title={topik1.data.title} author={topik1.data.author} description={topik1.data.description}/>
+        <main class="w3-main w3-container w3-padding-32">
+            <div class="w3-content w3-padding-32">
                 <div class="w3-container">
-                    <p>Testing...</p>
+                    <Content />
+                </div>
+                <div class="w3-container">
+                    <h2>Tutorial</h2>
+                    <p>
+                        Berikut ini adalah dokumen yang kita tulis menggunakan <em>plain markdown</em>.
+                    </p>
+                    <ul>
+                        {
+                            tutorialEntries.map(tutorialPostEntry => (
+                                <li>
+                                    <a href={`/docs/tutorials/${tutorialPostEntry.slug}`}>{tutorialPostEntry.data.title}</a>
+                                </li>
+                            ))
+                        }
+                    </ul>
                 </div>
             </div>
         </main>

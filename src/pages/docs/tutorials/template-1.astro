@@ -1,0 +1,38 @@
+---
+import { getEntry } from 'astro:content';
+const entry = await getEntry('tutorials', 'template-1');
+const { Content, headings } = await entry.render();
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>{entry.data.title}</title>
+        <meta name="generator" content={Astro.generator} />
+		<meta name="author" content="FX. Adi Lima" />
+        <meta name="description" content="Astro description">
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link href="/styles/w3.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    </head>
+    <body>
+        <main class="w3-main">
+            <div class="w3-content">
+                <div class="w3-container">
+                    <article class="w3-panel">
+                        <p><strong>{entry.data.title}</strong></p>
+                        <p>Tags: {
+                            entry.data.tags.forEach(element => {
+                                <span class="w3-tag">${element}</span>                                
+                            })}
+                        </p>
+                        <Content />
+                    </article>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
+
